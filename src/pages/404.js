@@ -16,7 +16,7 @@ class NotFoundPage extends React.Component {
           <h2 className="page-head-title">
             Not found
           </h2>
-          <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+          <p>Nothing to see here, please move on...</p>
         </header>
       </Layout>
     )
