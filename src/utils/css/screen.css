@@ -423,12 +423,11 @@ body {
 
 .post-feed-end {
     margin: 0 auto;
-    padding: 4rem 0;
+    padding: 3.5rem 0;
 }
 
 @media (max-width: 700px) {
     .post-feed-end {
-        margin: 0 auto;
         padding: 3rem 0;
     }
 }
@@ -547,15 +546,13 @@ body {
 /* ---------------------------------------------------------- */
 
 .post-content {
-    max-width: 720px;
+    max-width: 864px;
     margin: 0 auto;
     padding-top: 6vw;
 }
 
 @media (max-width: 700px) {
     .post-content {
-        max-width: 720px;
-        margin: 0 auto;
         padding-top: 13vw;
         padding-bottom: 6vw;
     }
@@ -599,6 +596,7 @@ body {
 }
 
 .post-content-body {
+    text-align: center;
     font-size: 1.9rem;
     line-height: 1.65em;
 }
@@ -606,6 +604,16 @@ body {
 @media (max-width: 500px) {
     .post-content-body {
         font-size: 1.7rem;
+    }
+}
+
+.post-content-body-end {
+    margin-bottom: 11rem;
+}
+
+@media (max-width: 500px) {
+    .post-content-body-end {
+        margin-bottom: 0rem;
     }
 }
 

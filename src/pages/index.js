@@ -16,7 +16,7 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title=""
+        title="Portfolio"
         keywords={[`photography`, `portfolio`]}
       />
       {data.site.siteMetadata.description && (
@@ -65,7 +65,7 @@ const indexQuery = graphql`
             description
             thumbnail {
               childImageSharp {
-                fluid(maxWidth: 1360) {
+                fluid(maxWidth: 2000) {
                   ...GatsbyImageSharpFluid
                 }
               }
