@@ -843,3 +843,33 @@ body {
         width: 100%;
     }
 }
+
+/* Scale album custom image pair 0 */
+.scale-0-row {
+    display: flex;
+    width: 100%;
+    gap: 5.5%;
+}
+
+.scale-0-col-0 {
+    width: 48%;
+}
+
+.scale-0-col-1 {
+    width: 46.5%;
+}
+
+@media (max-width: 700px) {
+    .scale-0-row {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .scale-0-col-0 {
+        width: 100%;
+    }
+
+    .scale-0-col-1 {
+        width: 100%;
+    }
+}
