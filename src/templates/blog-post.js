@@ -16,7 +16,7 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.description || post.excerpt}
         />
         <article
-          className={`post-content ${post.frontmatter.thumbnail || `no-image`}`}
+          className={`post-content ${post.frontmatter.max_width_cls || `no-width-limit`} ${post.frontmatter.thumbnail || `no-image`}`}
         >
           <header className="post-content-header">
             <h1 className="post-content-title">{post.frontmatter.title}</h1>
@@ -58,11 +58,12 @@ export const pageQuery = graphql`
         description
         thumbnail {
           childImageSharp {
-            fluid(maxWidth: 2000) {
+            fluid(maxWidth: 3000) {
               ...GatsbyImageSharpFluid
             }
           }
         }
+        max_width_cls
       }
     }
   }

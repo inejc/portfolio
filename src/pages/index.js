@@ -65,7 +65,7 @@ const indexQuery = graphql`
             description
             thumbnail {
               childImageSharp {
-                fluid(maxWidth: 2000) {
+                fluid(maxWidth: 3000) {
                   ...GatsbyImageSharpFluid
                 }
               }
