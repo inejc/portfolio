@@ -5,7 +5,7 @@ thumbnail: ./DSF0288.jpg
 description: Todo
 ---
 
-![Oystercatcher](./DSF0575.jpg "Oystercatcher")
+![Oystercatcher](./DSF0575.jpg "Oystercatcher I")
 
 ![European goldfinch](./DSF5413.jpg "European goldfinch")
 
@@ -16,3 +16,5 @@ description: Todo
 ![Black-headed gull](./DSF9822.jpg "Black-headed gull")
 
 ![Roe deer](./DSF0545.jpg "Roe deer")
+
+![Roe deer](./DSF0288.jpg "Oystercatcher II")
