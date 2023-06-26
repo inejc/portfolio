@@ -2,7 +2,7 @@
 title: Man made
 date: 2023-06-01
 thumbnail: ./DSF2962.jpg
-description: Todo
+description: ""
 ---
 
 ![todo](./DSF1248.jpg "todo")

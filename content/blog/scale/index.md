@@ -2,7 +2,7 @@
 title: Scale
 date: 2023-06-02
 thumbnail: ./DSF2935.jpg
-description: Todo
+description: ""
 ---
 
 ![todo](./DSF2710.jpg "todo")

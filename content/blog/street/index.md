@@ -2,15 +2,15 @@
 title: Street
 date: 2023-06-05
 thumbnail: ./DSF6687.jpg
-description: Todo
+description: ""
 ---
 
-![todo](./DSF7550.jpg "todo")
+![Aker Brygge, Norway](./DSF7550.jpg "Aker Brygge, Norway")
 
-![todo](./DSF6687.jpg "todo")
+![Helsinki, Finland](./DSF6687.jpg "Helsinki, Finland")
 
-![todo](./DSF8257.jpg "todo")
+![Bjørvika, Norway](./DSF8257.jpg "Bjørvika, Norway")
 
-![todo](./DSF6375.jpg "todo")
+![Helsinki, Finland](./DSF6375.jpg "Helsinki, Finland")
 
-![todo](./DSF8405.jpg "todo")
+![Fredrikstad, Norway](./DSF8405.jpg "Fredrikstad, Norway")

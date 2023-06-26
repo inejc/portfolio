@@ -2,10 +2,10 @@
 title: Wildlife
 date: 2023-06-06
 thumbnail: ./DSF0288.jpg
-description: Todo
+description: ""
 ---
 
-![Oystercatcher](./DSF0575.jpg "Oystercatcher I")
+![Oystercatcher](./DSF0575.jpg "Oystercatcher")
 
 ![European goldfinch](./DSF5413.jpg "European goldfinch")
 
@@ -17,4 +17,4 @@ description: Todo
 
 ![Roe deer](./DSF0545.jpg "Roe deer")
 
-![Roe deer](./DSF0288.jpg "Oystercatcher II")
+![Oystercatcher](./DSF0288.jpg "Oystercatcher")

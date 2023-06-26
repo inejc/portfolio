@@ -2,15 +2,15 @@
 title: Ground
 date: 2023-06-08
 thumbnail: ./DSF1948.jpg
-description: Todo
+description: ""
 ---
 
-![todo](./DSF1948.jpg "todo")
+![Fløyen, Norway](./DSF1948.jpg "Fløyen, Norway")
 
-![todo](./DSF0097.jpg "todo")
+![Dovrefjell, Norway](./DSF0097.jpg "Dovrefjell, Norway")
 
-![todo](./DSF0017.jpg "todo")
+![Nesoddtangen, Norway](./DSF0017.jpg "Nesoddtangen, Norway")
 
-![todo](./20221224_130628.jpg "todo")
+![Bygdøy, Norway](./20221224_130628.jpg "Bygdøy, Norway")
 
-![todo](./DSC3121.jpg "todo")
+![Mærradalen, Norway](./DSC3121.jpg "Mærradalen, Norway")

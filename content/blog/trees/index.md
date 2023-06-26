@@ -2,39 +2,39 @@
 title: Trees
 date: 2023-06-07
 thumbnail: ./DSC3458.jpg
-description: Todo
+description: ""
 ---
 
-![todo](./DSC3458.jpg "todo")
+![Mariholtet, Norway](./DSC3458.jpg "Mariholtet, Norway")
 
 <div class="trees-1-row">
 <div class="trees-1-col-0">
 
-![todo](./DSC02290.jpg "todo")
+![Sračja dolina, Slovenia](./DSC02290.jpg "Sračja dolina, Slovenia")
 
 </div>
 
 <div class="trees-1-col-1">
 
-![todo](./DSF8911.jpg "todo")
+![Ekeberg, Norway](./DSF8911.jpg "Ekeberg, Norway")
 
 </div>
 </div>
 
-![todo](./DSF7333.jpg "todo")
+![Tryvannstua, Norway](./DSF7333.jpg "Tryvannstua, Norway")
 
 <div class="trees-0-row">
 <div class="trees-0-col-0">
 
-![todo](./DSF9192.jpg "todo")
+![Bygdøy, Norway](./DSF9192.jpg "Bygdøy, Norway")
 
 </div>
 
 <div class="trees-0-col-1">
 
-![todo](./DSF9123.jpg "todo")
+![Bygdøy, Norway](./DSF9123.jpg "Bygdøy, Norway")
 
 </div>
 </div>
 
-![todo](./DSC2624.jpg "todo")
+![Kriška gora, Slovenia](./DSC2624.jpg "Kriška gora, Slovenia")

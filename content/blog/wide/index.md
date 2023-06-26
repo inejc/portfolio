@@ -2,7 +2,7 @@
 title: Wide
 date: 2023-06-03
 thumbnail: ./DSF6855.jpg
-description: Todo
+description: ""
 ---
 
 ![todo](./DSF6855.jpg "todo")

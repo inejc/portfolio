@@ -2,21 +2,21 @@
 title: City
 date: 2023-06-04
 thumbnail: ./DSF6282.jpg
-description: Todo
+description: ""
 ---
 
-![todo](./DSF6282.jpg "todo")
+![Copenhagen, Denmark](./DSF6282.jpg "Copenhagen, Denmark")
 
-![todo](./DSF8452.jpg "todo")
+![Fredrikstad, Norway](./DSF8452.jpg "Fredrikstad, Norway")
 
-![todo](./DSF8192.jpg "todo")
+![Aker Brygge, Norway](./DSF8192.jpg "Aker Brygge, Norway")
 
-![todo](./DSF6359.jpg "todo")
+![Copenhagen, Denmark](./DSF6359.jpg "Copenhagen, Denmark")
 
-![todo](./DSF6666.jpg "todo")
+![Helsinki, Finland](./DSF6666.jpg "Helsinki, Finland")
 
-![todo](./DSF9061.jpg "todo")
+![Drøbak, Norway](./DSF9061.jpg "Drøbak, Norway")
 
-![todo](./DSF7944.jpg "todo")
+![Ullevål, Norway](./DSF7944.jpg "Ullevål, Norway")
 
-![todo](./DSF2013.jpg "todo")
+![Bergen, Norway](./DSF2013.jpg "Bergen, Norway")
