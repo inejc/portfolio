@@ -4,6 +4,5 @@ module.exports = {
   description: 'Photography portfolio',
   url: 'https://ilenic.photos',
   prefix: '/',
-  author: 'Nejc Ilenic',
-  twitter: ''
+  author: 'Nejc Ilenic'
 }

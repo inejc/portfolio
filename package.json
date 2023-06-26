@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-london",
+  "name": "portfolio",
   "private": true,
-  "description": "A custom, image-centric theme for Gatsby",
+  "description": "A photography portfolio.",
   "version": "1.0.0",
-  "author": "Imed Adel <aadelimed@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/ImedAdel/gatsby-london/issues"
-  },
+  "author": "Nejc Ilenic",
   "dependencies": {
     "gatsby": "^2.4.2",
     "gatsby-image": "^2.0.41",
@@ -46,27 +43,25 @@
     "prettier": "^1.17.0",
     "pretty-quick": "^1.10.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby",
-    "ghost",
     "gallery",
-    "blog",
-    "starter"
+    "photography",
+    "portfolio"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ImedAdel/gatsby-london.git"
+    "url": "https://github.com/inejc/portfolio.git"
   },
+  "browserslist": [
+    "defaults and supports es6-module",
+    "maintained node versions"
+  ],
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write src/**/*.{js,jsx}",
-    "start": "npm run develop",
-    "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "develop": "gatsby develop"
   },
   "husky": {
     "hooks": {

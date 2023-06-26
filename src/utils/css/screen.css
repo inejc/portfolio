@@ -14,9 +14,6 @@ production stylesheet in assets/built/screen.css using gulp dev
 @import "components/lists.css";
 @import "components/grid.css";
 @import "components/tables.css";
-@import "components/forms.css";
-@import "components/buttons.css";
-@import "components/actions.css";
 @import "components/hamburger.css";
 @import "components/animations.css";
 
@@ -555,7 +552,7 @@ body {
 @media (max-width: 700px) {
     .post-content {
         padding-top: 13vw;
-        padding-bottom: 6vw;
+        padding-bottom: 5vw;
     }
 }
 
@@ -572,7 +569,7 @@ body {
 }
 
 .post-content-excerpt {
-    margin: -2vw 0 3vw;
+    margin: -2vw 0 5vw;
     font-size: 2.2rem;
     line-height: 1.6em;
     color: var(--color-base);
@@ -582,6 +579,7 @@ body {
 
 @media (max-width: 500px) {
     .post-content-excerpt {
+        margin: -2vw 0 12vw;
         font-size: 1.8rem;
     }
 }
@@ -870,6 +868,36 @@ body {
     }
 
     .scale-0-col-1 {
+        width: 100%;
+    }
+}
+
+/* Scale album custom image pair 1 */
+.scale-1-row {
+    display: flex;
+    width: 100%;
+    gap: 4.35%;
+}
+
+.scale-1-col-0 {
+    width: 49%;
+}
+
+.scale-1-col-1 {
+    width: 46.65%;
+}
+
+@media (max-width: 700px) {
+    .scale-1-row {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .scale-1-col-0 {
+        width: 100%;
+    }
+
+    .scale-1-col-1 {
         width: 100%;
     }
 }

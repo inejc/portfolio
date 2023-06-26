@@ -7,9 +7,6 @@ module.exports = {
     author: siteConfig.author,
     description: siteConfig.description,
     siteUrl: urljoin(siteConfig.url, siteConfig.prefix),
-    social: {
-      twitter: siteConfig.twitter,
-    },
   },
   plugins: [
     {
@@ -56,7 +53,7 @@ module.exports = {
           require("postcss-easy-import")(),
           require("postcss-custom-properties")({ preserve: false }),
           require("postcss-color-function")(),
-          require("autoprefixer")({ browsers: ["last 2 versions"] }),
+          require("autoprefixer")(),
         ],
       },
     },
