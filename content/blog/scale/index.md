@@ -5,36 +5,36 @@ thumbnail: ./DSF2935.jpg
 description: ""
 ---
 
-![todo](./DSF2710.jpg "todo")
+![Sanna, Norway](./DSF2710.jpg "Sanna, Norway")
 
 <div class="scale-0-row">
 <div class="scale-0-col-0">
 
-![todo](./DSF1370.jpg "todo")
+![Smines, Norway](./DSF1370.jpg "Smines, Norway")
 
 </div>
 
 <div class="scale-0-col-1">
 
-![todo](./DSC02385.jpg "todo")
+![Sovatna, Slovenia](./DSC02385.jpg "Sovatna, Slovenia")
 
 </div>
 </div>
 
-![todo](./DSF2902.jpg "todo")
+![Flotane waterfall, Norway](./DSF2902.jpg "Flotane waterfall, Norway")
 
 <div class="scale-1-row">
 <div class="scale-1-col-0">
 
-![todo](./DSF0185.jpg "todo")
+![Romsdalen, Norway](./DSF0185.jpg "Romsdalen, Norway")
 
 </div>
 
 <div class="scale-1-col-1">
 
-![todo](./DSF2810.jpg "todo")
+![Gudvangen, Norway](./DSF2810.jpg "Gudvangen, Norway")
 
 </div>
 </div>
 
-![todo](./DSF2935.jpg "todo")
+![Rødøyløva, Norway](./DSF2935.jpg "Rødøyløva, Norway")

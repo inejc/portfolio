@@ -5,12 +5,12 @@ thumbnail: ./DSF2962.jpg
 description: ""
 ---
 
-![todo](./DSF1248.jpg "todo")
+![Andenes, Norway](./DSF1248.jpg "Andenes, Norway")
 
-![todo](./DSF6568.jpg "todo")
+![Trondheim, Norway](./DSF6568.jpg "Trondheim, Norway")
 
-![todo](./DSF2962.jpg "todo")
+![Myken, Norway](./DSF2962.jpg "Myken, Norway")
 
-![todo](./DSF2542.jpg "todo")
+![Lovund, Norway](./DSF2542.jpg "Lovund, Norway")
 
-![todo](./DSF0173.jpg "todo")
+![Kyllingbrua, Norway](./DSF0173.jpg "Kyllingbrua, Norway")

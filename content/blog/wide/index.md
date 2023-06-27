@@ -5,20 +5,20 @@ thumbnail: ./DSF6855.jpg
 description: ""
 ---
 
-![todo](./DSF6855.jpg "todo")
+![Vækerø, Norway](./DSF6855.jpg "Vækerø, Norway")
 
-![todo](./DSF6522.jpg "todo")
+![Trondheim, Norway](./DSF6522.jpg "Trondheim, Norway")
 
-![todo](./DSF6524.jpg "todo")
+![Trondheim, Norway](./DSF6524.jpg "Trondheim, Norway")
 
-![todo](./DSF1302.jpg "todo")
+![Andenes, Norway](./DSF1302.jpg "Andenes, Norway")
 
-![todo](./DSF1332.jpg "todo")
+![Andøya, Norway](./DSF1332.jpg "Andøya, Norway")
 
-![todo](./DSF6423.jpg "todo")
+![Helsinki, Finland](./DSF6423.jpg "Helsinki, Finland")
 
-![todo](./DSF6618.jpg "todo")
+![Helsinki, Finland](./DSF6618.jpg "Helsinki, Finland")
 
-![todo](./DSF6267.jpg "todo")
+![Copenhagen, Denmark](./DSF6267.jpg "Copenhagen, Denmark")
 
-![todo](./DSF7717.jpg "todo")
+![Fornebu, Norway](./DSF7717.jpg "Fornebu, Norway")
