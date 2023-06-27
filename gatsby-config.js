@@ -26,7 +26,7 @@ module.exports = {
               maxWidth: 2000,
               linkImagesToOriginal: false,
               showCaptions: true,
-              wrapperStyle: `margin: 1vw 0 6vw 0;`,
+              wrapperStyle: `margin: 0 0 6vw 0;`,
               quality: 100,
               withWebp: { quality: 100 },
               withAvif: { quality: 100 },
