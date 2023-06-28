@@ -30,6 +30,7 @@ module.exports = {
               quality: 100,
               withWebp: { quality: 100 },
               withAvif: { quality: 100 },
+              linkImagesToOriginal: true,
             },
           },
           {
