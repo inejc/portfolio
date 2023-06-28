@@ -15,8 +15,6 @@ description: ""
 
 ![Helsinki, Finland](./DSF6666.jpg "Helsinki, Finland")
 
-![Drøbak, Norway](./DSF9061.jpg "Drøbak, Norway")
-
 ![Ullevål, Norway](./DSF7944.jpg "Ullevål, Norway")
 
 ![Bergen, Norway](./DSF2013.jpg "Bergen, Norway")
