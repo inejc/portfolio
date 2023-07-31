@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Jul 2023 13:35:29 GMT</lastBuildDate><item><title><![CDATA[Ground]]></title><link>https://ilenic.photos/ground/</link><guid isPermaLink="false">https://ilenic.photos/ground/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 31 Jul 2023 22:20:22 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
@@ -149,6 +149,57 @@
   &lt;/a&gt;
     
   &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Nesoddtangen, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/34c72727ee04ac9b67de1c04403d33b3/e3932/DSF3655.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAIEAQMF/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/2gAMAwEAAhADEAAAAehFpvzwZAyrDJWEH//EABkQAAMBAQEAAAAAAAAAAAAAAAABAhESIf/aAAgBAQABBQJ+D9TeE0VGHEMdtHbNP//EABYRAQEBAAAAAAAAAAAAAAAAABARQf/aAAgBAwEBPwGmn//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABsQAAEEAwAAAAAAAAAAAAAAAAABEBExQVFh/9oACAEBAAY/AqJfSdMEI/8A/8QAHBAAAgMBAAMAAAAAAAAAAAAAAREAITFRQWFx/9oACAEBAAE/ISOgXYYxAjXGkxBYj9UITGt8Q+ZT3HVEK9hsaE//2gAMAwEAAgADAAAAEDP3Pf/EABgRAQADAQAAAAAAAAAAAAAAAAEAECFB/9oACAEDAQE/EHo2ZFaf/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEQESExQf/aAAgBAgEBPxCuMyLUf//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExUUGh/9oACAEBAAE/ENTAhbbkF0nbI6L5Ft0HBYYbe5KWDwJV0wKHUJUAsE7D303Tat/sVanfhP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/34c72727ee04ac9b67de1c04403d33b3/601b1/DSF3655.webp 500w,
+/static/34c72727ee04ac9b67de1c04403d33b3/80c60/DSF3655.webp 1000w,
+/static/34c72727ee04ac9b67de1c04403d33b3/8717d/DSF3655.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/34c72727ee04ac9b67de1c04403d33b3/953fe/DSF3655.jpg 500w,
+/static/34c72727ee04ac9b67de1c04403d33b3/0a251/DSF3655.jpg 1000w,
+/static/34c72727ee04ac9b67de1c04403d33b3/e3932/DSF3655.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/34c72727ee04ac9b67de1c04403d33b3/e3932/DSF3655.jpg&quot;
+          alt=&quot;Nigardsbreen, Norway&quot;
+          title=&quot;Nigardsbreen, Norway&quot;
+          src=&quot;/static/34c72727ee04ac9b67de1c04403d33b3/e3932/DSF3655.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Nigardsbreen, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
 &lt;p&gt;
@@ -2051,6 +2102,163 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dede62fdecb4273ae0769864e70facae/e3932/DSF3590.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAAB6B4aBy1v/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAEgMQEf/aAAgBAQABBQIGNLaY1xhxz//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAIAQMBAT8BcmI//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAgBAgEBPwFUaz//xAAYEAADAQEAAAAAAAAAAAAAAAAAECEBMf/aAAgBAQAGPwJRbIcP/8QAGxAAAwADAQEAAAAAAAAAAAAAAAERITFRYUH/2gAIAQEAAT8h9IdJ1DzwbR8YlmIl9NZr1n//2gAMAwEAAgADAAAAEN/f/8QAFREBAQAAAAAAAAAAAAAAAAAAAGH/2gAIAQMBAT8QEH//xAAVEQEBAAAAAAAAAAAAAAAAAAAAYf/aAAgBAgEBPxAUf//EABsQAQADAQEBAQAAAAAAAAAAAAEAESFBYXGB/9oACAEBAAE/ELCqcb2M/SpLF6wGcADPsQDUgYpy/I0DJiH/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/dede62fdecb4273ae0769864e70facae/601b1/DSF3590.webp 500w,
+/static/dede62fdecb4273ae0769864e70facae/80c60/DSF3590.webp 1000w,
+/static/dede62fdecb4273ae0769864e70facae/8717d/DSF3590.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/dede62fdecb4273ae0769864e70facae/953fe/DSF3590.jpg 500w,
+/static/dede62fdecb4273ae0769864e70facae/0a251/DSF3590.jpg 1000w,
+/static/dede62fdecb4273ae0769864e70facae/e3932/DSF3590.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/dede62fdecb4273ae0769864e70facae/e3932/DSF3590.jpg&quot;
+          alt=&quot;Nigardsbreen, Norway&quot;
+          title=&quot;Nigardsbreen, Norway&quot;
+          src=&quot;/static/dede62fdecb4273ae0769864e70facae/e3932/DSF3590.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Nigardsbreen, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;div class=&quot;scale-2-row&quot;&gt;
+&lt;div class=&quot;scale-2-col-0&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bda2458177ab74ea476ecb1812fb88ab/03ffe/DSF3486.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1200px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAdm8pLRJOhQs3//EABsQAAMAAgMAAAAAAAAAAAAAAAABEQIhEBIy/9oACAEBAAEFAuqNiqUJxRmxDMfP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFRABAQAAAAAAAAAAAAAAAAAAIEH/2gAIAQEABj8CUX//xAAdEAACAwACAwAAAAAAAAAAAAAAAREhMUFRYYGR/9oACAEBAAE/Idm1ujXhf0SBDZBJK47Hw1CkkEmLsXY16NGB/9oADAMBAAIAAwAAABCXyXD/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EIR5T//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxDWxKx//8QAHhABAQACAgIDAAAAAAAAAAAAAREAITFBUXFhofD/2gAIAQEAAT8QI7Fac3595S6QdHA9ecMLw2VcdmNAFuIx7hi4ASN7mJnbc33lSEC0LMmMlucf7znBn1TP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/bda2458177ab74ea476ecb1812fb88ab/601b1/DSF3486.webp 500w,
+/static/bda2458177ab74ea476ecb1812fb88ab/80c60/DSF3486.webp 1000w,
+/static/bda2458177ab74ea476ecb1812fb88ab/cbd37/DSF3486.webp 1200w&quot;
+          sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/bda2458177ab74ea476ecb1812fb88ab/953fe/DSF3486.jpg 500w,
+/static/bda2458177ab74ea476ecb1812fb88ab/0a251/DSF3486.jpg 1000w,
+/static/bda2458177ab74ea476ecb1812fb88ab/03ffe/DSF3486.jpg 1200w&quot;
+          sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/bda2458177ab74ea476ecb1812fb88ab/03ffe/DSF3486.jpg&quot;
+          alt=&quot;Nigardsbreen, Norway&quot;
+          title=&quot;Nigardsbreen, Norway&quot;
+          src=&quot;/static/bda2458177ab74ea476ecb1812fb88ab/03ffe/DSF3486.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Nigardsbreen, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;scale-2-col-1&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/740ccdcb799c45968e46341f8129d9df/0a251/DSF3681.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAID/9oADAMBAAIQAxAAAAHc1p0xzx4S6Jmg0wN//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECERIhMf/aAAgBAQABBQLLHcTaE7jyZkjaNCF4Wf/EABcRAQADAAAAAAAAAAAAAAAAAAAQERL/2gAIAQMBAT8BjS3/xAAWEQEBAQAAAAAAAAAAAAAAAAAQARH/2gAIAQIBAT8BMp//xAAbEAABBAMAAAAAAAAAAAAAAAAQAAECIREgMf/aAAgBAQAGPwJWcSYUO6f/xAAdEAEAAwEAAgMAAAAAAAAAAAABABEhMUFRYXGB/9oACAEBAAE/IXh5+oVo99Qq2iPZdy+FHkD5r9Lmi3fmBDSpg0W60RmKgCQxyf/aAAwDAQACAAMAAAAQ4zpy/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/EERqX//EABcRAQEBAQAAAAAAAAAAAAAAAAABEWH/2gAIAQIBAT8Q62oMr//EAB8QAQACAgICAwAAAAAAAAAAAAEAESExQWFRcYGR8P/aAAgBAQABPxARzHOkwKuWV39QIEvIsU0Y7P25WxhfR6lFFi0UJPdRXBytqww5Uqu+/iEsQlgIrCLOGs8wxYa8Q+A9T//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/740ccdcb799c45968e46341f8129d9df/601b1/DSF3681.webp 500w,
+/static/740ccdcb799c45968e46341f8129d9df/80c60/DSF3681.webp 1000w&quot;
+          sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/740ccdcb799c45968e46341f8129d9df/953fe/DSF3681.jpg 500w,
+/static/740ccdcb799c45968e46341f8129d9df/0a251/DSF3681.jpg 1000w&quot;
+          sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/740ccdcb799c45968e46341f8129d9df/0a251/DSF3681.jpg&quot;
+          alt=&quot;Nigardsbreen, Norway&quot;
+          title=&quot;Nigardsbreen, Norway&quot;
+          src=&quot;/static/740ccdcb799c45968e46341f8129d9df/0a251/DSF3681.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Nigardsbreen, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/cafb43d453572fd8e910b916fdaa43e7/e3932/DSF2710.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
@@ -2263,7 +2471,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5b905369cdf98f523da9477d131ec494/8bffe/DSF0185.jpg&quot;
+    href=&quot;/static/28bbb8a9905ee9cd4d0821b573de652a/15b04/DSF3271.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2271,34 +2479,34 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 1096px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 1269px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 136.79999999999998%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/2gAMAwEAAhADEAAAAYLanTNRTAtjPeo1UiK//8QAHhAAAQMEAwAAAAAAAAAAAAAAAQACAxESITIjMTP/2gAIAQEAAQUCPeE5zmqTAhFZDUmdwsiPMVsoPd23/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BI//EABcRAAMBAAAAAAAAAAAAAAAAAAEQEQL/2gAIAQIBAT8Bqyav/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERECFRYf/aAAgBAQAGPwLETS6VG+FPbjQ7hn//xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhQVExof/aAAgBAQABPyFcnMmlG82IiGrF9lD95d+ISlqwhuDgfisw6lHXlwibn7J//9oADAMBAAIAAwAAABBkxv8A/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEQETEh/9oACAEDAQE/ENWzg8j/xAAYEQACAwAAAAAAAAAAAAAAAAABIQAQEf/aAAgBAgEBPxBxgjv/AP/EACEQAQADAAEDBQEAAAAAAAAAAAEAESExQWGBUXGRobHx/9oACAEBAAE/EBUIbEZwT2IF1Xf7mweDoW/lHiZAU1buxri1kO/M0Aiq7sA614nUB/kv8i9b8fDOFi671uZIqMX6whF0wURwKf/Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 118.19999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUBAv/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEAMQAAABbIVFFOJ1pO4Dv//EABsQAQACAgMAAAAAAAAAAAAAAAECEQADEBQg/9oACAEBAAEFAuzBF1yLPF4vH//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/ASn/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8BZ3//xAAcEAABAwUAAAAAAAAAAAAAAAAAAhExARAgIuH/2gAIAQEABj8C2SPRTHcIIt//xAAcEAEBAAEFAQAAAAAAAAAAAAABABEQMUFRYYH/2gAIAQEAAT8hMUhFBL2++rME4sL0lF2xf//aAAwDAQACAAMAAAAQDN98/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELGNNr//xAAXEQADAQAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/EAiDV//EAB4QAAICAgIDAAAAAAAAAAAAAAERACExQVGREGGh/9oACAEBAAE/EBQ6G8/YMmNWhCbILkIOoyrjOX14qn7Rcx40SqOAEOBP/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/5b905369cdf98f523da9477d131ec494/601b1/DSF0185.webp 500w,
-/static/5b905369cdf98f523da9477d131ec494/80c60/DSF0185.webp 1000w,
-/static/5b905369cdf98f523da9477d131ec494/d2558/DSF0185.webp 1096w&quot;
-          sizes=&quot;(max-width: 1096px) 100vw, 1096px&quot;
+          srcset=&quot;/static/28bbb8a9905ee9cd4d0821b573de652a/601b1/DSF3271.webp 500w,
+/static/28bbb8a9905ee9cd4d0821b573de652a/80c60/DSF3271.webp 1000w,
+/static/28bbb8a9905ee9cd4d0821b573de652a/271ac/DSF3271.webp 1269w&quot;
+          sizes=&quot;(max-width: 1269px) 100vw, 1269px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/5b905369cdf98f523da9477d131ec494/953fe/DSF0185.jpg 500w,
-/static/5b905369cdf98f523da9477d131ec494/0a251/DSF0185.jpg 1000w,
-/static/5b905369cdf98f523da9477d131ec494/8bffe/DSF0185.jpg 1096w&quot;
-          sizes=&quot;(max-width: 1096px) 100vw, 1096px&quot;
+          srcset=&quot;/static/28bbb8a9905ee9cd4d0821b573de652a/953fe/DSF3271.jpg 500w,
+/static/28bbb8a9905ee9cd4d0821b573de652a/0a251/DSF3271.jpg 1000w,
+/static/28bbb8a9905ee9cd4d0821b573de652a/15b04/DSF3271.jpg 1269w&quot;
+          sizes=&quot;(max-width: 1269px) 100vw, 1269px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/5b905369cdf98f523da9477d131ec494/8bffe/DSF0185.jpg&quot;
-          alt=&quot;Romsdalen, Norway&quot;
-          title=&quot;Romsdalen, Norway&quot;
-          src=&quot;/static/5b905369cdf98f523da9477d131ec494/8bffe/DSF0185.jpg&quot;
+          src=&quot;/static/28bbb8a9905ee9cd4d0821b573de652a/15b04/DSF3271.jpg&quot;
+          alt=&quot;Skjolden, Norway&quot;
+          title=&quot;Skjolden, Norway&quot;
+          src=&quot;/static/28bbb8a9905ee9cd4d0821b573de652a/15b04/DSF3271.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -2306,7 +2514,7 @@
   
   &lt;/a&gt;
     
-  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Romsdalen, Norway&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Skjolden, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
 &lt;/div&gt;

@@ -865,15 +865,15 @@ body {
 .scale-1-row {
     display: flex;
     width: 100%;
-    gap: 4.35%;
+    gap: 4.3%;
 }
 
 .scale-1-col-0 {
-    width: 49%;
+    width: 52.5%;
 }
 
 .scale-1-col-1 {
-    width: 46.65%;
+    width: 43.2%;
 }
 
 @media (max-width: 700px) {
@@ -887,6 +887,36 @@ body {
     }
 
     .scale-1-col-1 {
+        width: 100%;
+    }
+}
+
+/* Scale album custom image pair 2 */
+.scale-2-row {
+    display: flex;
+    width: 100%;
+    gap: 4.5%;
+}
+
+.scale-2-col-0 {
+    width: 52.1%;
+}
+
+.scale-2-col-1 {
+    width: 43.4%;
+}
+
+@media (max-width: 700px) {
+    .scale-2-row {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .scale-2-col-0 {
+        width: 100%;
+    }
+
+    .scale-2-col-1 {
         width: 100%;
     }
 }

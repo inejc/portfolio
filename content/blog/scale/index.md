@@ -5,6 +5,22 @@ thumbnail: ./DSF2935.jpg
 description: ""
 ---
 
+![Nigardsbreen, Norway](./DSF3590.jpg "Nigardsbreen, Norway")
+
+<div class="scale-2-row">
+<div class="scale-2-col-0">
+
+![Nigardsbreen, Norway](./DSF3486.jpg "Nigardsbreen, Norway")
+
+</div>
+
+<div class="scale-2-col-1">
+
+![Nigardsbreen, Norway](./DSF3681.jpg "Nigardsbreen, Norway")
+
+</div>
+</div>
+
 ![Sanna, Norway](./DSF2710.jpg "Sanna, Norway")
 
 <div class="scale-0-row">
@@ -26,7 +42,7 @@ description: ""
 <div class="scale-1-row">
 <div class="scale-1-col-0">
 
-![Romsdalen, Norway](./DSF0185.jpg "Romsdalen, Norway")
+![Skjolden, Norway](./DSF3271.jpg "Skjolden, Norway")
 
 </div>
 
