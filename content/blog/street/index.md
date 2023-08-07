@@ -9,6 +9,8 @@ description: ""
 
 ![Helsinki, Finland](./DSF6687.jpg "Helsinki, Finland")
 
+![Kristiansand, Norway](./DSF3950.jpg "Kristiansand, Norway")
+
 ![Bjørvika, Norway](./DSF8257.jpg "Bjørvika, Norway")
 
 ![Helsinki, Finland](./DSF6375.jpg "Helsinki, Finland")

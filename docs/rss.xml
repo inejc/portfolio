@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Aug 2023 13:02:08 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Aug 2023 12:54:51 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
@@ -1134,6 +1134,57 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/adadc134f4eb3d260759628defdbe8f4/e3932/DSF3950.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 65.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABA//EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAFTkBiLELKf/8QAGRABAAMBAQAAAAAAAAAAAAAAAAMSFAEC/9oACAEBAAEFAqu+VW2dsmapX//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAwEBPwGMv//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oACAECAQE/AaW//8QAFxAAAwEAAAAAAAAAAAAAAAAAADKhEP/aAAgBAQAGPwLWg0Gh/8QAGBAAAwEBAAAAAAAAAAAAAAAAAGGRARD/2gAIAQEAAT8h3n0owJQJQf/aAAwDAQACAAMAAAAQzw//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBn/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QFH//xAAdEAACAQQDAAAAAAAAAAAAAAABEQAhMUHwUXHB/9oACAEBAAE/EAq0AjSMLSfMqnNtaEgW91Nw8n//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/adadc134f4eb3d260759628defdbe8f4/601b1/DSF3950.webp 500w,
+/static/adadc134f4eb3d260759628defdbe8f4/80c60/DSF3950.webp 1000w,
+/static/adadc134f4eb3d260759628defdbe8f4/8717d/DSF3950.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/adadc134f4eb3d260759628defdbe8f4/953fe/DSF3950.jpg 500w,
+/static/adadc134f4eb3d260759628defdbe8f4/0a251/DSF3950.jpg 1000w,
+/static/adadc134f4eb3d260759628defdbe8f4/e3932/DSF3950.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/adadc134f4eb3d260759628defdbe8f4/e3932/DSF3950.jpg&quot;
+          alt=&quot;Kristiansand, Norway&quot;
+          title=&quot;Kristiansand, Norway&quot;
+          src=&quot;/static/adadc134f4eb3d260759628defdbe8f4/e3932/DSF3950.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Kristiansand, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/203300ae38c465472cf01444ef32705b/e3932/DSF8257.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
@@ -2102,7 +2153,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5d1d3ce987bc9ecf969cbd9b230b36e0/e3932/DSF3590.jpg&quot;
+    href=&quot;/static/3fe01763e23f904cced43da653ec895a/e3932/DSF3590.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2114,30 +2165,30 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 71.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAAB0FxSpUOD/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECEgMQEf/aAAgBAQABBQJMkW03XGprn//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAIAQMBAT8BcmI//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAgEBPwHS5f/EABgQAAMBAQAAAAAAAAAAAAAAAAAQIQEx/9oACAEBAAY/AlFshw//xAAbEAADAAMBAQAAAAAAAAAAAAAAAREhMVFhQf/aAAgBAQABPyH0h0nUPPBtHxi2YiX01mvT/9oADAMBAAIAAwAAABDLH//EABURAQEAAAAAAAAAAAAAAAAAABBh/9oACAEDAQE/EKF//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFh/9oACAECAQE/EIbP/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARIUFhcYH/2gAIAQEAAT8QsKpxvYz9KksXrAZwAM+xgNSBinL8lUMmNT//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 71.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHoAipznH//xAAaEAACAgMAAAAAAAAAAAAAAAABAgASAxAR/9oACAEBAAEFAgY0tomqDIvP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAgBAwEBPwFyYj//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/AdLl/8QAGBAAAwEBAAAAAAAAAAAAAAAAABAhMQH/2gAIAQEABj8CUXZhh//EABoQAAIDAQEAAAAAAAAAAAAAAAABESFhEDH/2gAIAQEAAT8h0gw5Q70b54NCXooimf/aAAwDAQACAAMAAAAQmN//xAAVEQEBAAAAAAAAAAAAAAAAAAAQYf/aAAgBAwEBPxChf//EABYRAQEBAAAAAAAAAAAAAAAAAAABYf/aAAgBAgEBPxCGz//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQVGh/9oACAEBAAE/ELMpqt7jOfUSAqiHkIUCAGbBTcFpir+QiYnbP//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/5d1d3ce987bc9ecf969cbd9b230b36e0/601b1/DSF3590.webp 500w,
-/static/5d1d3ce987bc9ecf969cbd9b230b36e0/80c60/DSF3590.webp 1000w,
-/static/5d1d3ce987bc9ecf969cbd9b230b36e0/8717d/DSF3590.webp 1500w&quot;
+          srcset=&quot;/static/3fe01763e23f904cced43da653ec895a/601b1/DSF3590.webp 500w,
+/static/3fe01763e23f904cced43da653ec895a/80c60/DSF3590.webp 1000w,
+/static/3fe01763e23f904cced43da653ec895a/8717d/DSF3590.webp 1500w&quot;
           sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/5d1d3ce987bc9ecf969cbd9b230b36e0/953fe/DSF3590.jpg 500w,
-/static/5d1d3ce987bc9ecf969cbd9b230b36e0/0a251/DSF3590.jpg 1000w,
-/static/5d1d3ce987bc9ecf969cbd9b230b36e0/e3932/DSF3590.jpg 1500w&quot;
+          srcset=&quot;/static/3fe01763e23f904cced43da653ec895a/953fe/DSF3590.jpg 500w,
+/static/3fe01763e23f904cced43da653ec895a/0a251/DSF3590.jpg 1000w,
+/static/3fe01763e23f904cced43da653ec895a/e3932/DSF3590.jpg 1500w&quot;
           sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/5d1d3ce987bc9ecf969cbd9b230b36e0/e3932/DSF3590.jpg&quot;
+          src=&quot;/static/3fe01763e23f904cced43da653ec895a/e3932/DSF3590.jpg&quot;
           alt=&quot;Nigardsbreen, Norway&quot;
           title=&quot;Nigardsbreen, Norway&quot;
-          src=&quot;/static/5d1d3ce987bc9ecf969cbd9b230b36e0/e3932/DSF3590.jpg&quot;
+          src=&quot;/static/3fe01763e23f904cced43da653ec895a/e3932/DSF3590.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
