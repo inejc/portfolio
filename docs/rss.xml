@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Aug 2023 18:19:25 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 14 Sep 2023 14:50:52 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
@@ -1185,6 +1185,57 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9aed2b916296e8d6765bf7ea2354b154/e3932/DSF5535.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBAv/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBP/aAAwDAQACEAMQAAABr2haMikneGe4J//EABgQAAMBAQAAAAAAAAAAAAAAAAAREhAg/9oACAEBAAEFApyRCFx//8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAEDAQE/ASN//8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAECAQE/AWd//8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwIf/8QAGxAAAgIDAQAAAAAAAAAAAAAAAREAECFBYXH/2gAIAQEAAT8hADsLS1RKeKOVyKf/2gAMAwEAAgADAAAAEM/wgf/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPxAlMTH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8QbXV1/8QAHhABAAICAgMBAAAAAAAAAAAAAQARMUEhUWFxgZH/2gAIAQEAAT8QzXLrBCqAOhHtX1iGyI0R8Uxo/IbK0tfG/cbOWf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/9aed2b916296e8d6765bf7ea2354b154/601b1/DSF5535.webp 500w,
+/static/9aed2b916296e8d6765bf7ea2354b154/80c60/DSF5535.webp 1000w,
+/static/9aed2b916296e8d6765bf7ea2354b154/8717d/DSF5535.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/9aed2b916296e8d6765bf7ea2354b154/953fe/DSF5535.jpg 500w,
+/static/9aed2b916296e8d6765bf7ea2354b154/0a251/DSF5535.jpg 1000w,
+/static/9aed2b916296e8d6765bf7ea2354b154/e3932/DSF5535.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/9aed2b916296e8d6765bf7ea2354b154/e3932/DSF5535.jpg&quot;
+          alt=&quot;Budapest, Hungary&quot;
+          title=&quot;Budapest, Hungary&quot;
+          src=&quot;/static/9aed2b916296e8d6765bf7ea2354b154/e3932/DSF5535.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Budapest, Hungary&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/203300ae38c465472cf01444ef32705b/e3932/DSF8257.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
@@ -1333,6 +1384,165 @@
   &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Fredrikstad, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;</content:encoded></item><item><title><![CDATA[City]]></title><link>https://ilenic.photos/city/</link><guid isPermaLink="false">https://ilenic.photos/city/</guid><pubDate>Sun, 04 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8e979c8f777c3c8e9a0e17fbe3d58a4d/e3932/DSF5576.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECBQT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAcGe2+NZ7QFJAJf/xAAaEAADAQADAAAAAAAAAAAAAAAAAxQCAQQQ/9oACAEBAAEFAveOswm2TbLHFrixx//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwEjf//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPwG4qI//xAAZEAACAwEAAAAAAAAAAAAAAAAAATEykRD/2gAIAQEABj8C7VlSpKJWErD/xAAZEAACAwEAAAAAAAAAAAAAAAAAARBBYaH/2gAIAQEAAT8hUsBuNRRykEP/2gAMAwEAAgADAAAAEMgQQv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCU02tr/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBUf/aAAgBAgEBPxDVKEcf/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAERITFBYfHh/9oACAEBAAE/EGiROubFcJiRO9oXinNJlQbSpnHHPH//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/8e979c8f777c3c8e9a0e17fbe3d58a4d/601b1/DSF5576.webp 500w,
+/static/8e979c8f777c3c8e9a0e17fbe3d58a4d/80c60/DSF5576.webp 1000w,
+/static/8e979c8f777c3c8e9a0e17fbe3d58a4d/8717d/DSF5576.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/8e979c8f777c3c8e9a0e17fbe3d58a4d/953fe/DSF5576.jpg 500w,
+/static/8e979c8f777c3c8e9a0e17fbe3d58a4d/0a251/DSF5576.jpg 1000w,
+/static/8e979c8f777c3c8e9a0e17fbe3d58a4d/e3932/DSF5576.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/8e979c8f777c3c8e9a0e17fbe3d58a4d/e3932/DSF5576.jpg&quot;
+          alt=&quot;Budapest, Hungary&quot;
+          title=&quot;Budapest, Hungary&quot;
+          src=&quot;/static/8e979c8f777c3c8e9a0e17fbe3d58a4d/e3932/DSF5576.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Budapest, Hungary&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;div class=&quot;city-0-row&quot;&gt;
+&lt;div class=&quot;city-0-col-0&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/decee62697ddb6cf8926763af2add6a8/58c22/DSF5425.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1072px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUEA//EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABpZGPNvBmfj6kayWr/8QAHRAAAQQCAwAAAAAAAAAAAAAAAgABAwQSExARMf/aAAgBAQABBQKWTWMNnMmVock0bATKwWK2MTj4uuP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEhD/2gAIAQMBAT8BylP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEhD/2gAIAQIBAT8ByUv/xAAdEAACAgEFAAAAAAAAAAAAAAABAgAQERIgQUJh/9oACAEBAAY/AszSaUexCp7YoRABzt//xAAaEAADAQEBAQAAAAAAAAAAAAAAARExUUEh/9oACAEBAAE/IUvYfFlwwORD0VOX0MCqvp8EJY3rpEyOFaxs/9oADAMBAAIAAwAAABCDDwL/xAAWEQEBAQAAAAAAAAAAAAAAAAAREAH/2gAIAQMBAT8QMIo//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EFdmZ//EABwQAQEAAgMBAQAAAAAAAAAAAAERACExQWFRcf/aAAgBAQABPxAMqrAO3JNJRDRfmAe3OMkNH5UM3tQrVjyeYYjbt3gjuGn1iZKlcI4rlE6Nd+5BUG4DsFwJAHimf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/decee62697ddb6cf8926763af2add6a8/601b1/DSF5425.webp 500w,
+/static/decee62697ddb6cf8926763af2add6a8/80c60/DSF5425.webp 1000w,
+/static/decee62697ddb6cf8926763af2add6a8/4b958/DSF5425.webp 1072w&quot;
+          sizes=&quot;(max-width: 1072px) 100vw, 1072px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/decee62697ddb6cf8926763af2add6a8/953fe/DSF5425.jpg 500w,
+/static/decee62697ddb6cf8926763af2add6a8/0a251/DSF5425.jpg 1000w,
+/static/decee62697ddb6cf8926763af2add6a8/58c22/DSF5425.jpg 1072w&quot;
+          sizes=&quot;(max-width: 1072px) 100vw, 1072px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/decee62697ddb6cf8926763af2add6a8/58c22/DSF5425.jpg&quot;
+          alt=&quot;Budapest, Hungary&quot;
+          title=&quot;Budapest, Hungary&quot;
+          src=&quot;/static/decee62697ddb6cf8926763af2add6a8/58c22/DSF5425.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Budapest, Hungary&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;city-0-col-1&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/33d1bba7275f0ce50c70eab0c4ecbdd1/b8c47/DSF5114.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1030px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 145.6%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABtfmwpjnDcpFmJiin/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDERIAIv/aAAgBAQABBQJT7Zn4SGjFk01rESKy+RyhqT22RySFV//EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAwEBPwFcr//EABcRAQEBAQAAAAAAAAAAAAAAAAABEWH/2gAIAQIBAT8BjEZ1/8QAHhABAQABAwUAAAAAAAAAAAAAAQARAiExECIyUZH/2gAIAQEABj8CXRvZwXOJRjveiK3k/baXVce7F//EAB0QAAMBAQACAwAAAAAAAAAAAAABETEhQVFxgcH/2gAIAQEAAT8hyRGr0R/UbnxF2VPQ5i6K9Lc5dOXdKJfcdQ4eVG1R1xngLmj/2gAMAwEAAgADAAAAEMMt/f/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEUH/2gAIAQMBAT8QQhS2Dl//xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxBOSd8YNt6T/8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFBUWGxcf/aAAgBAQABPxAJFkjjf3AqoXhT5iRtmo795HzOzvvxl0rtghp05cHdnnNxSQk1fWMJVtK1r984I8oyOnAHicUs3iFDDRHVmASDkz//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/33d1bba7275f0ce50c70eab0c4ecbdd1/601b1/DSF5114.webp 500w,
+/static/33d1bba7275f0ce50c70eab0c4ecbdd1/80c60/DSF5114.webp 1000w,
+/static/33d1bba7275f0ce50c70eab0c4ecbdd1/4f5fd/DSF5114.webp 1030w&quot;
+          sizes=&quot;(max-width: 1030px) 100vw, 1030px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/33d1bba7275f0ce50c70eab0c4ecbdd1/953fe/DSF5114.jpg 500w,
+/static/33d1bba7275f0ce50c70eab0c4ecbdd1/0a251/DSF5114.jpg 1000w,
+/static/33d1bba7275f0ce50c70eab0c4ecbdd1/b8c47/DSF5114.jpg 1030w&quot;
+          sizes=&quot;(max-width: 1030px) 100vw, 1030px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/33d1bba7275f0ce50c70eab0c4ecbdd1/b8c47/DSF5114.jpg&quot;
+          alt=&quot;Budapest, Hungary&quot;
+          title=&quot;Budapest, Hungary&quot;
+          src=&quot;/static/33d1bba7275f0ce50c70eab0c4ecbdd1/b8c47/DSF5114.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Budapest, Hungary&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a

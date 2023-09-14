@@ -5,6 +5,22 @@ thumbnail: ./DSF6282.jpg
 description: ""
 ---
 
+![Budapest, Hungary](./DSF5576.jpg "Budapest, Hungary")
+
+<div class="city-0-row">
+<div class="city-0-col-0">
+
+![Budapest, Hungary](./DSF5425.jpg "Budapest, Hungary")
+
+</div>
+
+<div class="city-0-col-1">
+
+![Budapest, Hungary](./DSF5114.jpg "Budapest, Hungary")
+
+</div>
+</div>
+
 ![Copenhagen, Denmark](./DSF6282.jpg "Copenhagen, Denmark")
 
 ![Fredrikstad, Norway](./DSF8452.jpg "Fredrikstad, Norway")
