@@ -1,5 +1,5 @@
 ### Start locally
-`gatsby develop`
+`make develop`
 
 ### Build release
 `./build.sh`

@@ -5,6 +5,8 @@ thumbnail: ./DSF1948.jpg
 description: ""
 ---
 
+![Oslo, Norway](./DSF5662.jpg "Oslo, Norway")
+
 ![Fløyen, Norway](./DSF1948.jpg "Fløyen, Norway")
 
 ![Dovrefjell, Norway](./DSF0097.jpg "Dovrefjell, Norway")
