@@ -5,6 +5,10 @@ thumbnail: ./DSF0288.jpg
 description: ""
 ---
 
+![White-throated dipper](./DSF6101.jpg "White-throated dipper")
+
+![White-throated dipper](./DSF6027.jpg "White-throated dipper")
+
 ![Oystercatcher](./DSF0575.jpg "Oystercatcher")
 
 ![European goldfinch](./DSF5413.jpg "European goldfinch")
