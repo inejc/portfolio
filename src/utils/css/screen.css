@@ -775,15 +775,15 @@ body {
 .trees-0-row {
     display: flex;
     width: 100%;
-    gap: 5.44%;
+    gap: 5.55%;
 }
 
 .trees-0-col-0 {
-    width: 51.46%;
+    width: 53.35%;
 }
 
 .trees-0-col-1 {
-    width: 43.1%;
+    width: 41.1%;
 }
 
 @media (max-width: 700px) {
