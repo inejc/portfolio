@@ -5,6 +5,8 @@ thumbnail: ./DSF6855.jpg
 description: ""
 ---
 
+![Tromsø, Norway](./DSF7057.jpg "Tromsø, Norway")
+
 ![Vækerø, Norway](./DSF6855.jpg "Vækerø, Norway")
 
 ![Trondheim, Norway](./DSF6522.jpg "Trondheim, Norway")
