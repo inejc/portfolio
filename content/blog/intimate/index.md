@@ -13,6 +13,8 @@ description: ""
 
 ![Nigardsbreen, Norway](./DSF3655.jpg "Nigardsbreen, Norway")
 
+![Oslo, Norway](./DSF7119.jpg "Oslo, Norway")
+
 ![Oslo, Norway](./DSF5662.jpg "Oslo, Norway")
 
 ![Bygdøy, Norway](./20221224_130628.jpg "Bygdøy, Norway")
