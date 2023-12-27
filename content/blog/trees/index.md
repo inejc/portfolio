@@ -21,6 +21,8 @@ description: ""
 </div>
 </div>
 
+![Tryvannstua, Norway](./DSF7312.jpg "Tryvannstua, Norway")
+
 ![Tryvannstua, Norway](./DSF7333.jpg "Tryvannstua, Norway")
 
 <div class="trees-0-row">
