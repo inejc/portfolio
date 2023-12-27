@@ -12,7 +12,3 @@ description: ""
 ![Nesoddtangen, Norway](./DSF0017.jpg "Nesoddtangen, Norway")
 
 ![Nigardsbreen, Norway](./DSF3655.jpg "Nigardsbreen, Norway")
-
-![Oslo, Norway](./DSF7119.jpg "Oslo, Norway")
-
-![Oslo, Norway](./DSF5662.jpg "Oslo, Norway")
