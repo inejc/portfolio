@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Dec 2023 19:39:54 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Dec 2023 22:43:55 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
@@ -1851,6 +1851,59 @@
   &lt;/a&gt;
     
   &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Helsinki, Finland&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c54c94b2542f677925c5678062493d53/09658/20231205_120112.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 2000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlt4dE80P/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEDEgIRFDH/2gAIAQEAAQUCjiuuca04sqlx+//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAAxARBRYZH/2gAIAQEABj8CcjnlLYsV/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARITGR/9oACAEBAAE/IQtobrCUkuQeQxw0wEDPF5Ntn//aAAwDAQACAAMAAAAQN+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAQgf/aAAgBAgEBPxCn/8QAHxABAQACAQQDAAAAAAAAAAAAAREAITFBUWFxkaGx/9oACAEBAAE/EOmkBUXt7x1thBJVvHzhsiKVMFinleBJ95tzm7d0/uI4qtmf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c54c94b2542f677925c5678062493d53/601b1/20231205_120112.webp 500w,
+/static/c54c94b2542f677925c5678062493d53/80c60/20231205_120112.webp 1000w,
+/static/c54c94b2542f677925c5678062493d53/fab06/20231205_120112.webp 2000w,
+/static/c54c94b2542f677925c5678062493d53/96d48/20231205_120112.webp 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c54c94b2542f677925c5678062493d53/953fe/20231205_120112.jpg 500w,
+/static/c54c94b2542f677925c5678062493d53/0a251/20231205_120112.jpg 1000w,
+/static/c54c94b2542f677925c5678062493d53/451a4/20231205_120112.jpg 2000w,
+/static/c54c94b2542f677925c5678062493d53/09658/20231205_120112.jpg 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c54c94b2542f677925c5678062493d53/451a4/20231205_120112.jpg&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
+          src=&quot;/static/c54c94b2542f677925c5678062493d53/451a4/20231205_120112.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
 &lt;p&gt;
