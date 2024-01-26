@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 15 Jan 2024 20:23:20 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Jan 2024 20:53:40 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
@@ -1838,8 +1838,8 @@
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
           src=&quot;/static/d1d4d22e4e5cfdbfdabcaac466689ba0/451a4/DSF8192.jpg&quot;
-          alt=&quot;Aker Brygge, Norway&quot;
-          title=&quot;Aker Brygge, Norway&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
           src=&quot;/static/d1d4d22e4e5cfdbfdabcaac466689ba0/451a4/DSF8192.jpg&quot;
         /&gt;
       &lt;/picture&gt;
@@ -1848,7 +1848,7 @@
   
   &lt;/a&gt;
     
-  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Aker Brygge, Norway&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
 &lt;p&gt;
@@ -1957,6 +1957,114 @@
   &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Helsinki, Finland&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
+&lt;div class=&quot;city-1-row&quot;&gt;
+&lt;div class=&quot;city-1-col-0&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2c39a9689e7891163e4939759d571777/d58d1/DSF5075.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1536px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAaDyEubBNCOnPZWFD//EABsQAAIDAAMAAAAAAAAAAAAAAAABAgMSEyAh/9oACAEBAAEFAlJGkaITSKrGcxvzTNPp/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPwGEW//EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8BpXv/xAAdEAABBAIDAAAAAAAAAAAAAAARAAEQIQIxIFHh/9oACAEBAAY/ApJem7WZ29r1CN8P/8QAHBAAAwACAwEAAAAAAAAAAAAAAAERIUExYXEg/9oACAEBAAE/IWnyXTmuyDI4O5Z6GnTBHpb2xjK+szVM7Hx//9oADAMBAAIAAwAAABAsPvP/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAwEBPxAQf//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPxBaN//EACAQAQACAgIBBQAAAAAAAAAAAAEAESExQWFREJGhscH/2gAIAQEAAT8QIGWFDzRcyznbatYe8kbNPsxk0oCXYAOIObkGFsXro+I01VrhH1EKKVFTx1K7Aeoq/p6k/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/2c39a9689e7891163e4939759d571777/601b1/DSF5075.webp 500w,
+/static/2c39a9689e7891163e4939759d571777/80c60/DSF5075.webp 1000w,
+/static/2c39a9689e7891163e4939759d571777/f3efb/DSF5075.webp 1536w&quot;
+          sizes=&quot;(max-width: 1536px) 100vw, 1536px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/2c39a9689e7891163e4939759d571777/953fe/DSF5075.jpg 500w,
+/static/2c39a9689e7891163e4939759d571777/0a251/DSF5075.jpg 1000w,
+/static/2c39a9689e7891163e4939759d571777/d58d1/DSF5075.jpg 1536w&quot;
+          sizes=&quot;(max-width: 1536px) 100vw, 1536px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/2c39a9689e7891163e4939759d571777/d58d1/DSF5075.jpg&quot;
+          alt=&quot;Budapest, Hungary&quot;
+          title=&quot;Budapest, Hungary&quot;
+          src=&quot;/static/2c39a9689e7891163e4939759d571777/d58d1/DSF5075.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Budapest, Hungary&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;city-1-col-1&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1348px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 151.99999999999997%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABqXa7VmdFg70NPIIEwf/EABwQAAICAwEBAAAAAAAAAAAAAAEDAAIEERMUNP/aAAgBAQABBQJb2KBvkgex0qIz5yIARVjqcYMe2vMdcTP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAfEAAABgEFAAAAAAAAAAAAAAAAAQIQETISIUFxcqH/2gAIAQEABj8ChB6DKFcwL+Mrq07GFFmU4tYXFh//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMVHwYZGx/9oACAEBAAE/IXNFZ0RYyAtp1OoTEw9/EyQijgYkjqm/EXMQCtTe+I26ep//2gAMAwEAAgADAAAAEKAMPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB8QAQACAgAHAAAAAAAAAAAAAAEAESExEEFhcYGh8P/aAAgBAQABPxBhrLF2fJLccRQbXrWY2/P1AWSE9Zl1vCDKDRE5DW4nqIA2tMVwlUEZCliSp7SZFlR//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/08a04931d4793eeec508519d0c97107f/601b1/DSC0273.webp 500w,
+/static/08a04931d4793eeec508519d0c97107f/80c60/DSC0273.webp 1000w,
+/static/08a04931d4793eeec508519d0c97107f/d3725/DSC0273.webp 1348w&quot;
+          sizes=&quot;(max-width: 1348px) 100vw, 1348px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/08a04931d4793eeec508519d0c97107f/953fe/DSC0273.jpg 500w,
+/static/08a04931d4793eeec508519d0c97107f/0a251/DSC0273.jpg 1000w,
+/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg 1348w&quot;
+          sizes=&quot;(max-width: 1348px) 100vw, 1348px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
+          src=&quot;/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
@@ -2050,8 +2158,8 @@
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
           src=&quot;/static/e55ad34b44325a830ba657fdeb846a6a/451a4/DSF7944.jpg&quot;
-          alt=&quot;Ullevål, Norway&quot;
-          title=&quot;Ullevål, Norway&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
           src=&quot;/static/e55ad34b44325a830ba657fdeb846a6a/451a4/DSF7944.jpg&quot;
         /&gt;
       &lt;/picture&gt;
@@ -2060,7 +2168,7 @@
   
   &lt;/a&gt;
     
-  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Ullevål, Norway&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
 &lt;p&gt;
