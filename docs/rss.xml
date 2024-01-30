@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Jan 2024 20:53:40 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 30 Jan 2024 08:53:13 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
@@ -215,7 +215,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ccfd822f24cb03d1e1080a794dbe7e5f/5ea22/DSC0234.jpg&quot;
+    href=&quot;/static/dbece43e5a8e21762452e563e1181516/e00d8/DSC0234.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -223,34 +223,36 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 1701px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 2000px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 120.39999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHsXMqdoNQMg//EABgQAAMBAQAAAAAAAAAAAAAAAAEQEQAg/9oACAEBAAEFAuAIipv/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ah//xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhEDH/2gAIAQEAAT8huG/NdKNOYRwDw81Zgvd//9oADAMBAAIAAwAAABCfP37/xAAWEQEBAQAAAAAAAAAAAAAAAAAQATH/2gAIAQMBAT8QLp//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QdP/EABsQAQACAwEBAAAAAAAAAAAAAAEAESExURBh/9oACAEBAAE/ECRFoT4+GquXZq2WkHGViIeQdICEDs0u5//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHrrakyN5Cg/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAEREAIx/9oACAEBAAEFAqLq54Qo8R//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ah//xAAZEAEBAQADAAAAAAAAAAAAAAABEQAQIZH/2gAIAQEAAT8hYK4j1fNdHK0HGuAm/9oADAMBAAIAAwAAABCMML3/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EGpr/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxBiK//EABwQAQADAAIDAAAAAAAAAAAAAAEAETEhQVFhcf/aAAgBAQABPxAWSg7gB0urj6lDl3CADvPipgUvvYeBnsYJUtZ//9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/ccfd822f24cb03d1e1080a794dbe7e5f/601b1/DSC0234.webp 500w,
-/static/ccfd822f24cb03d1e1080a794dbe7e5f/80c60/DSC0234.webp 1000w,
-/static/ccfd822f24cb03d1e1080a794dbe7e5f/cb569/DSC0234.webp 1701w&quot;
-          sizes=&quot;(max-width: 1701px) 100vw, 1701px&quot;
+          srcset=&quot;/static/dbece43e5a8e21762452e563e1181516/601b1/DSC0234.webp 500w,
+/static/dbece43e5a8e21762452e563e1181516/80c60/DSC0234.webp 1000w,
+/static/dbece43e5a8e21762452e563e1181516/fab06/DSC0234.webp 2000w,
+/static/dbece43e5a8e21762452e563e1181516/60834/DSC0234.webp 2047w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/ccfd822f24cb03d1e1080a794dbe7e5f/953fe/DSC0234.jpg 500w,
-/static/ccfd822f24cb03d1e1080a794dbe7e5f/0a251/DSC0234.jpg 1000w,
-/static/ccfd822f24cb03d1e1080a794dbe7e5f/5ea22/DSC0234.jpg 1701w&quot;
-          sizes=&quot;(max-width: 1701px) 100vw, 1701px&quot;
+          srcset=&quot;/static/dbece43e5a8e21762452e563e1181516/953fe/DSC0234.jpg 500w,
+/static/dbece43e5a8e21762452e563e1181516/0a251/DSC0234.jpg 1000w,
+/static/dbece43e5a8e21762452e563e1181516/451a4/DSC0234.jpg 2000w,
+/static/dbece43e5a8e21762452e563e1181516/e00d8/DSC0234.jpg 2047w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/ccfd822f24cb03d1e1080a794dbe7e5f/5ea22/DSC0234.jpg&quot;
+          src=&quot;/static/dbece43e5a8e21762452e563e1181516/451a4/DSC0234.jpg&quot;
           alt=&quot;Oslo, Norway&quot;
           title=&quot;Oslo, Norway&quot;
-          src=&quot;/static/ccfd822f24cb03d1e1080a794dbe7e5f/5ea22/DSC0234.jpg&quot;
+          src=&quot;/static/dbece43e5a8e21762452e563e1181516/451a4/DSC0234.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
