@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Feb 2024 07:31:48 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Feb 2024 20:35:27 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b3450218fadb89e7f21cb203ee272e85/09658/DSF1948.jpg&quot;
+    href=&quot;/static/df9d5512f179e5766203254e3e99ae69/e00d8/DSF1948.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -15,32 +15,32 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEAf/EABcBAQADAAAAAAAAAAAAAAAAAAIAAQP/2gAMAwEAAhADEAAAAYWx7QSa1GhmeCP/xAAcEAACAgIDAAAAAAAAAAAAAAABAgARAyITITH/2gAIAQEAAQUCSlOQWeSououH2K2z9H//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAQIR/9oACAEDAQE/AWLIf//EABgRAAMBAQAAAAAAAAAAAAAAAAABESEx/9oACAECAQE/AU5hR8Ef/8QAHxAAAQIGAwAAAAAAAAAAAAAAAQAxAgMQESAhIlFx/9oACAEBAAY/AtNEgSxXGXcd08x//8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBUWH/2gAIAQEAAT8h3Ppb7McTj8gxVF0zNHJeRhqpfET1DB7ERqAxGy5//9oADAMBAAIAAwAAABCcMML/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARMf/aAAgBAwEBPxDUcbOJ/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8QxNKZ0f/EAB0QAQEAAgMAAwAAAAAAAAAAAAERACExQVFxkfD/2gAIAQEAAT8QcLyhLp1o1cdKZS6o9yw2sRLkw0D2vMfWJAXYH5xiWLuXj6yqq01HhmDiBeU7wSFKPnP/2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABjXHtBJNUqgPIn//EABwQAAICAgMAAAAAAAAAAAAAAAECACEDERMiMf/aAAgBAQABBQJOpyLs8kWhuH2Brej/AP/EABcRAQADAAAAAAAAAAAAAAAAAAABAhH/2gAIAQMBAT8BYsh//8QAGREAAwADAAAAAAAAAAAAAAAAAAERAiEx/9oACAECAQE/AbNMplwR/8QAHBABAAIBBQAAAAAAAAAAAAAAAQAhAxASIFFx/9oACAEBAAY/AqaYLQyse47084//xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMUFRYf/aAAgBAQABPyGtPZFmLOTXyACmDqZ45LyQ1UvQieoa9jPMBUHLn//aAAwDAQACAAMAAAAQHPhA/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAQETH/2gAIAQMBAT8Q1HGzif/EABcRAQADAAAAAAAAAAAAAAAAAAEAECH/2gAIAQIBAT8QLALJ/8QAHRABAAIDAQADAAAAAAAAAAAAAREhADFBUXGBkf/aAAgBAQABPxC9Cch0bCu40ADbaO4aqAIC/WRi8BXvkRrJExoBsD413DLSbjz8yoVg2jpjC4gktO4DFCLZ/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/b3450218fadb89e7f21cb203ee272e85/601b1/DSF1948.webp 500w,
-/static/b3450218fadb89e7f21cb203ee272e85/80c60/DSF1948.webp 1000w,
-/static/b3450218fadb89e7f21cb203ee272e85/fab06/DSF1948.webp 2000w,
-/static/b3450218fadb89e7f21cb203ee272e85/96d48/DSF1948.webp 2048w&quot;
+          srcset=&quot;/static/df9d5512f179e5766203254e3e99ae69/601b1/DSF1948.webp 500w,
+/static/df9d5512f179e5766203254e3e99ae69/80c60/DSF1948.webp 1000w,
+/static/df9d5512f179e5766203254e3e99ae69/fab06/DSF1948.webp 2000w,
+/static/df9d5512f179e5766203254e3e99ae69/60834/DSF1948.webp 2047w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/b3450218fadb89e7f21cb203ee272e85/953fe/DSF1948.jpg 500w,
-/static/b3450218fadb89e7f21cb203ee272e85/0a251/DSF1948.jpg 1000w,
-/static/b3450218fadb89e7f21cb203ee272e85/451a4/DSF1948.jpg 2000w,
-/static/b3450218fadb89e7f21cb203ee272e85/09658/DSF1948.jpg 2048w&quot;
+          srcset=&quot;/static/df9d5512f179e5766203254e3e99ae69/953fe/DSF1948.jpg 500w,
+/static/df9d5512f179e5766203254e3e99ae69/0a251/DSF1948.jpg 1000w,
+/static/df9d5512f179e5766203254e3e99ae69/451a4/DSF1948.jpg 2000w,
+/static/df9d5512f179e5766203254e3e99ae69/e00d8/DSF1948.jpg 2047w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/b3450218fadb89e7f21cb203ee272e85/451a4/DSF1948.jpg&quot;
+          src=&quot;/static/df9d5512f179e5766203254e3e99ae69/451a4/DSF1948.jpg&quot;
           alt=&quot;Fløyen, Norway&quot;
           title=&quot;Fløyen, Norway&quot;
-          src=&quot;/static/b3450218fadb89e7f21cb203ee272e85/451a4/DSF1948.jpg&quot;
+          src=&quot;/static/df9d5512f179e5766203254e3e99ae69/451a4/DSF1948.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -56,7 +56,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/09658/DSF0097.jpg&quot;
+    href=&quot;/static/1d78c1d2cc9a0a84298251600cd09140/e00d8/DSF0097.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -68,32 +68,32 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/2gAMAwEAAhADEAAAAZOvC4ZhSoYPWJPIR//EABsQAAICAwEAAAAAAAAAAAAAAAECADEDEBIR/9oACAEBAAEFAltjOVlTGnQQHzHev//EABcRAQEBAQAAAAAAAAAAAAAAAAEAECH/2gAIAQMBAT8BS7Of/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAIhEBH/2gAIAQIBAT8BVuQguf/EABoQAAICAwAAAAAAAAAAAAAAAAABEBEgMUH/2gAIAQEABj8CEum4t4//xAAaEAEAAgMBAAAAAAAAAAAAAAABABEhMUGR/9oACAEBAAE/IcjVrFQdHk1V4YLgSwDN4gqqKPWUL1t7DTAn/9oADAMBAAIAAwAAABDnOD3/xAAXEQEAAwAAAAAAAAAAAAAAAAAQESEx/9oACAEDAQE/EJLGj//EABcRAQADAAAAAAAAAAAAAAAAAAAQEUH/2gAIAQIBAT8QRbuP/8QAHRABAAICAwEBAAAAAAAAAAAAAREhAEExcfBRof/aAAgBAQABPxC0OgGrwWwgJOvX3ixAAI4O/wByGa+RBk79rGNHkM4scAWF+67wQgWzlvNKoaisJFglZaz/2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAQL/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/9oADAMBAAIQAxAAAAGb1nWOcbqme8igW//EABoQAAIDAQEAAAAAAAAAAAAAAAECABESAzH/2gAIAQEAAQUCWMdHKwMbRLVFOeCAjyCf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAQIf/aAAgBAwEBPwFLs5//xAAYEQACAwAAAAAAAAAAAAAAAAAAAhAhQf/aAAgBAgEBPwFWwoWP/8QAGhAAAgIDAAAAAAAAAAAAAAAAABABIRExQf/aAAgBAQAGPwKiHnpot//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQVFhgf/aAAgBAQABPyE7pKcfaimkrxgMMdzQfExSlOoOpDQDuYXTzP/aAAwDAQACAAMAAAAQ+8B8/8QAFhEAAwAAAAAAAAAAAAAAAAAAESAh/9oACAEDAQE/EKFD/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAx/9oACAECAQE/EDCeJ//EACAQAQEAAgEDBQAAAAAAAAAAAAERACExQVFxYYGRocH/2gAIAQEAAT8QS7HKq69a/OO1L1FI9/Y1kxFGtOEDdwB+smlHOGfscQVhFgrz1842VmQCAOHjKggV2z//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/601b1/DSF0097.webp 500w,
-/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/80c60/DSF0097.webp 1000w,
-/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/fab06/DSF0097.webp 2000w,
-/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/96d48/DSF0097.webp 2048w&quot;
+          srcset=&quot;/static/1d78c1d2cc9a0a84298251600cd09140/601b1/DSF0097.webp 500w,
+/static/1d78c1d2cc9a0a84298251600cd09140/80c60/DSF0097.webp 1000w,
+/static/1d78c1d2cc9a0a84298251600cd09140/fab06/DSF0097.webp 2000w,
+/static/1d78c1d2cc9a0a84298251600cd09140/60834/DSF0097.webp 2047w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/953fe/DSF0097.jpg 500w,
-/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/0a251/DSF0097.jpg 1000w,
-/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/451a4/DSF0097.jpg 2000w,
-/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/09658/DSF0097.jpg 2048w&quot;
+          srcset=&quot;/static/1d78c1d2cc9a0a84298251600cd09140/953fe/DSF0097.jpg 500w,
+/static/1d78c1d2cc9a0a84298251600cd09140/0a251/DSF0097.jpg 1000w,
+/static/1d78c1d2cc9a0a84298251600cd09140/451a4/DSF0097.jpg 2000w,
+/static/1d78c1d2cc9a0a84298251600cd09140/e00d8/DSF0097.jpg 2047w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/451a4/DSF0097.jpg&quot;
+          src=&quot;/static/1d78c1d2cc9a0a84298251600cd09140/451a4/DSF0097.jpg&quot;
           alt=&quot;Dovrefjell, Norway&quot;
           title=&quot;Dovrefjell, Norway&quot;
-          src=&quot;/static/f2bbb1e3b467ad7366ac0ded4e57dfd5/451a4/DSF0097.jpg&quot;
+          src=&quot;/static/1d78c1d2cc9a0a84298251600cd09140/451a4/DSF0097.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -109,7 +109,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3a5686dc0eca8b171644ba20a41edae8/09658/DSF0017.jpg&quot;
+    href=&quot;/static/c3cefda0d031b4dd8e4d751baf801170/09658/DSF0017.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -121,32 +121,32 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEAMQAAAB5ojQnaxr0NJOgF//xAAcEAACAgIDAAAAAAAAAAAAAAACAwEhABExMkH/2gAIAQEAAQUCKmLnTMnkY1IlXo9nUz//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/AWor/8QAGxAAAgEFAAAAAAAAAAAAAAAAAAFRAhAgMYH/2gAIAQEABj8CVUnLJEm8P//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExQVFhcYHw/9oACAEBAAE/IcLvG3tLi9MWHJKuyES0gHIXDXzPr3HgA10n/9oADAMBAAIAAwAAABBLxwD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQFB/9oACAEDAQE/EIjjH//EABkRAAIDAQAAAAAAAAAAAAAAAAARARAhMf/aAAgBAgEBPxBa6cEn/8QAHhAAAgICAgMAAAAAAAAAAAAAAREAIUFhMXGBseH/2gAIAQEAAT8QE1ZosDxEuwRBGIAhV5hGDGTSHcICEBhWNbjMCxBBqA9q+5ZOM1hfUeIUwn//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/2gAMAwEAAhADEAAAAc0ctmeghOT0huAt/8QAHBAAAQMFAAAAAAAAAAAAAAAAAQACMgMhIzFB/9oACAEBAAEFAnSYciKAuHLo3Vn/AP/EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwEj/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPwFqK//EABoQAAICAwAAAAAAAAAAAAAAAAABAiAxUXH/2gAIAQEABj8CjPZ0yJW//8QAHRAAAgICAwEAAAAAAAAAAAAAAREAMSFREEFhwf/aAAgBAQABPyFwI9vIt+ggIVIrtAinGfIJFkXPrhxoK1P/2gAMAwEAAgADAAAAEMg4vf/EABcRAQADAAAAAAAAAAAAAAAAABABETH/2gAIAQMBAT8QoTh//8QAGREAAgMBAAAAAAAAAAAAAAAAABEBECEx/9oACAECAQE/EFrpwSf/xAAfEAACAgEFAQEAAAAAAAAAAAABEQAhMUFRYXGBwdH/2gAIAQEAAT8QEIMFBhNa4ioi2XtcBwHzCGzmaCGcqPQ/YUhkFRpQ6uvyDcCs+IhQgod4NzP/2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/3a5686dc0eca8b171644ba20a41edae8/601b1/DSF0017.webp 500w,
-/static/3a5686dc0eca8b171644ba20a41edae8/80c60/DSF0017.webp 1000w,
-/static/3a5686dc0eca8b171644ba20a41edae8/fab06/DSF0017.webp 2000w,
-/static/3a5686dc0eca8b171644ba20a41edae8/96d48/DSF0017.webp 2048w&quot;
+          srcset=&quot;/static/c3cefda0d031b4dd8e4d751baf801170/601b1/DSF0017.webp 500w,
+/static/c3cefda0d031b4dd8e4d751baf801170/80c60/DSF0017.webp 1000w,
+/static/c3cefda0d031b4dd8e4d751baf801170/fab06/DSF0017.webp 2000w,
+/static/c3cefda0d031b4dd8e4d751baf801170/96d48/DSF0017.webp 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/3a5686dc0eca8b171644ba20a41edae8/953fe/DSF0017.jpg 500w,
-/static/3a5686dc0eca8b171644ba20a41edae8/0a251/DSF0017.jpg 1000w,
-/static/3a5686dc0eca8b171644ba20a41edae8/451a4/DSF0017.jpg 2000w,
-/static/3a5686dc0eca8b171644ba20a41edae8/09658/DSF0017.jpg 2048w&quot;
+          srcset=&quot;/static/c3cefda0d031b4dd8e4d751baf801170/953fe/DSF0017.jpg 500w,
+/static/c3cefda0d031b4dd8e4d751baf801170/0a251/DSF0017.jpg 1000w,
+/static/c3cefda0d031b4dd8e4d751baf801170/451a4/DSF0017.jpg 2000w,
+/static/c3cefda0d031b4dd8e4d751baf801170/09658/DSF0017.jpg 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/3a5686dc0eca8b171644ba20a41edae8/451a4/DSF0017.jpg&quot;
+          src=&quot;/static/c3cefda0d031b4dd8e4d751baf801170/451a4/DSF0017.jpg&quot;
           alt=&quot;Nesoddtangen, Norway&quot;
           title=&quot;Nesoddtangen, Norway&quot;
-          src=&quot;/static/3a5686dc0eca8b171644ba20a41edae8/451a4/DSF0017.jpg&quot;
+          src=&quot;/static/c3cefda0d031b4dd8e4d751baf801170/451a4/DSF0017.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -690,6 +690,112 @@
   &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Kriška gora, Slovenia&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Wildlife]]></title><link>https://ilenic.photos/wildlife/</link><guid isPermaLink="false">https://ilenic.photos/wildlife/</guid><pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/62e87991003c5d0eb9bd0e01b2778145/09658/DSF0159.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 2000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 65.60000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgABBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHhRVhsj//EABkQAAMAAwAAAAAAAAAAAAAAAAABEgMRE//aAAgBAQABBQLmhYkyEbKKP//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oACAEDAQE/AYS//8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQIBAT8Btb//xAAYEAACAwAAAAAAAAAAAAAAAAAAMgIgIf/aAAgBAQAGPwJjJDU//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAERIWFx4fD/2gAIAQEAAT8hTdCiSPB2QrSQ2P/aAAwDAQACAAMAAAAQbz//xAAVEQEBAAAAAAAAAAAAAAAAAAAAcf/aAAgBAwEBPxClv//EABYRAAMAAAAAAAAAAAAAAAAAAAARUf/aAAgBAgEBPxBYLD//xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhMVH/2gAIAQEAAT8Qhc4l4CwbzIMnH+MwoBgPm//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/62e87991003c5d0eb9bd0e01b2778145/601b1/DSF0159.webp 500w,
+/static/62e87991003c5d0eb9bd0e01b2778145/80c60/DSF0159.webp 1000w,
+/static/62e87991003c5d0eb9bd0e01b2778145/fab06/DSF0159.webp 2000w,
+/static/62e87991003c5d0eb9bd0e01b2778145/96d48/DSF0159.webp 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/62e87991003c5d0eb9bd0e01b2778145/953fe/DSF0159.jpg 500w,
+/static/62e87991003c5d0eb9bd0e01b2778145/0a251/DSF0159.jpg 1000w,
+/static/62e87991003c5d0eb9bd0e01b2778145/451a4/DSF0159.jpg 2000w,
+/static/62e87991003c5d0eb9bd0e01b2778145/09658/DSF0159.jpg 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/62e87991003c5d0eb9bd0e01b2778145/451a4/DSF0159.jpg&quot;
+          alt=&quot;Great egret&quot;
+          title=&quot;Great egret&quot;
+          src=&quot;/static/62e87991003c5d0eb9bd0e01b2778145/451a4/DSF0159.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Great egret&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/466d018a1874fc1c70ddd34b244dfda5/09658/DSF9336.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 2000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQBAgX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGzKcokygb5eEn4Af/EABkQAAMBAQEAAAAAAAAAAAAAAAABERIQIf/aAAgBAQABBQKEIecqNs2zbP/EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/ASP/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwFj/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwIf/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQEVFhcf/aAAgBAQABPyEty2CxakXrOJ//2gAMAwEAAgADAAAAEBcAPP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/ECIj/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/ECrq6//EAB0QAAIBBAMAAAAAAAAAAAAAAAABESExUZFBYaH/2gAIAQEAAT8QknYYcwxQCldDXgcnA8y0Pqvg7tD/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/466d018a1874fc1c70ddd34b244dfda5/601b1/DSF9336.webp 500w,
+/static/466d018a1874fc1c70ddd34b244dfda5/80c60/DSF9336.webp 1000w,
+/static/466d018a1874fc1c70ddd34b244dfda5/fab06/DSF9336.webp 2000w,
+/static/466d018a1874fc1c70ddd34b244dfda5/96d48/DSF9336.webp 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/466d018a1874fc1c70ddd34b244dfda5/953fe/DSF9336.jpg 500w,
+/static/466d018a1874fc1c70ddd34b244dfda5/0a251/DSF9336.jpg 1000w,
+/static/466d018a1874fc1c70ddd34b244dfda5/451a4/DSF9336.jpg 2000w,
+/static/466d018a1874fc1c70ddd34b244dfda5/09658/DSF9336.jpg 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/466d018a1874fc1c70ddd34b244dfda5/451a4/DSF9336.jpg&quot;
+          alt=&quot;Great egret&quot;
+          title=&quot;Great egret&quot;
+          src=&quot;/static/466d018a1874fc1c70ddd34b244dfda5/451a4/DSF9336.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Great egret&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
@@ -1274,7 +1380,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f3e71a5a789305a491e59626b89eff82/09658/DSF3950.jpg&quot;
+    href=&quot;/static/4af04212e1659075bde9ce8bbc06a240/09658/DSF3950.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1290,28 +1396,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/f3e71a5a789305a491e59626b89eff82/601b1/DSF3950.webp 500w,
-/static/f3e71a5a789305a491e59626b89eff82/80c60/DSF3950.webp 1000w,
-/static/f3e71a5a789305a491e59626b89eff82/fab06/DSF3950.webp 2000w,
-/static/f3e71a5a789305a491e59626b89eff82/96d48/DSF3950.webp 2048w&quot;
+          srcset=&quot;/static/4af04212e1659075bde9ce8bbc06a240/601b1/DSF3950.webp 500w,
+/static/4af04212e1659075bde9ce8bbc06a240/80c60/DSF3950.webp 1000w,
+/static/4af04212e1659075bde9ce8bbc06a240/fab06/DSF3950.webp 2000w,
+/static/4af04212e1659075bde9ce8bbc06a240/96d48/DSF3950.webp 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/f3e71a5a789305a491e59626b89eff82/953fe/DSF3950.jpg 500w,
-/static/f3e71a5a789305a491e59626b89eff82/0a251/DSF3950.jpg 1000w,
-/static/f3e71a5a789305a491e59626b89eff82/451a4/DSF3950.jpg 2000w,
-/static/f3e71a5a789305a491e59626b89eff82/09658/DSF3950.jpg 2048w&quot;
+          srcset=&quot;/static/4af04212e1659075bde9ce8bbc06a240/953fe/DSF3950.jpg 500w,
+/static/4af04212e1659075bde9ce8bbc06a240/0a251/DSF3950.jpg 1000w,
+/static/4af04212e1659075bde9ce8bbc06a240/451a4/DSF3950.jpg 2000w,
+/static/4af04212e1659075bde9ce8bbc06a240/09658/DSF3950.jpg 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/f3e71a5a789305a491e59626b89eff82/451a4/DSF3950.jpg&quot;
+          src=&quot;/static/4af04212e1659075bde9ce8bbc06a240/451a4/DSF3950.jpg&quot;
           alt=&quot;Kristiansand, Norway&quot;
           title=&quot;Kristiansand, Norway&quot;
-          src=&quot;/static/f3e71a5a789305a491e59626b89eff82/451a4/DSF3950.jpg&quot;
+          src=&quot;/static/4af04212e1659075bde9ce8bbc06a240/451a4/DSF3950.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1380,7 +1486,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5e705eb7ebe4af93deef62b156bbfdf4/09658/DSF8257.jpg&quot;
+    href=&quot;/static/35dcb411daf73d2f65b09253351808b2/09658/DSF8257.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1392,32 +1498,32 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 63.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABY2oC4gZQ/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAIBAwQSFCP/2gAIAQEAAQUChTUyI9+207rR7Wdv/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAcEAABAwUAAAAAAAAAAAAAAAAAAQKREDFBQnH/2gAIAQEABj8Co/piDWBXLdT/xAAYEAADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAQABPyEVqhMSBPSH/9oADAMBAAIAAwAAABADL//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCOn//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBbYv/EABsQAQEBAAIDAAAAAAAAAAAAAAERACFBkaHw/9oACAEBAAE/EJ9YjrQP5wZNIGeWXICN4XPvN1RYQ3//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 63.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABY2oC4iZA/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAIBAwQSFCP/2gAIAQEAAQUChTUyI9+207rR7Wdv/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAcEAABAwUAAAAAAAAAAAAAAAAAAQKREDFBQnH/2gAIAQEABj8Co/piDWBXLdT/xAAYEAADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAQABPyEVqhMSBPSH/9oADAMBAAIAAwAAABBE3//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EAR//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QWx//xAAcEAEBAQACAwEAAAAAAAAAAAABEQAhMUGBofD/2gAIAQEAAT8Qn4xB1ofl0ZNIGPtlzgRvC5+5OqLCG//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/5e705eb7ebe4af93deef62b156bbfdf4/601b1/DSF8257.webp 500w,
-/static/5e705eb7ebe4af93deef62b156bbfdf4/80c60/DSF8257.webp 1000w,
-/static/5e705eb7ebe4af93deef62b156bbfdf4/fab06/DSF8257.webp 2000w,
-/static/5e705eb7ebe4af93deef62b156bbfdf4/96d48/DSF8257.webp 2048w&quot;
+          srcset=&quot;/static/35dcb411daf73d2f65b09253351808b2/601b1/DSF8257.webp 500w,
+/static/35dcb411daf73d2f65b09253351808b2/80c60/DSF8257.webp 1000w,
+/static/35dcb411daf73d2f65b09253351808b2/fab06/DSF8257.webp 2000w,
+/static/35dcb411daf73d2f65b09253351808b2/96d48/DSF8257.webp 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/5e705eb7ebe4af93deef62b156bbfdf4/953fe/DSF8257.jpg 500w,
-/static/5e705eb7ebe4af93deef62b156bbfdf4/0a251/DSF8257.jpg 1000w,
-/static/5e705eb7ebe4af93deef62b156bbfdf4/451a4/DSF8257.jpg 2000w,
-/static/5e705eb7ebe4af93deef62b156bbfdf4/09658/DSF8257.jpg 2048w&quot;
+          srcset=&quot;/static/35dcb411daf73d2f65b09253351808b2/953fe/DSF8257.jpg 500w,
+/static/35dcb411daf73d2f65b09253351808b2/0a251/DSF8257.jpg 1000w,
+/static/35dcb411daf73d2f65b09253351808b2/451a4/DSF8257.jpg 2000w,
+/static/35dcb411daf73d2f65b09253351808b2/09658/DSF8257.jpg 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/5e705eb7ebe4af93deef62b156bbfdf4/451a4/DSF8257.jpg&quot;
+          src=&quot;/static/35dcb411daf73d2f65b09253351808b2/451a4/DSF8257.jpg&quot;
           alt=&quot;Bjørvika, Norway&quot;
           title=&quot;Bjørvika, Norway&quot;
-          src=&quot;/static/5e705eb7ebe4af93deef62b156bbfdf4/451a4/DSF8257.jpg&quot;
+          src=&quot;/static/35dcb411daf73d2f65b09253351808b2/451a4/DSF8257.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1433,7 +1539,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/11f0b910169d6fcaa447ca549f1bb6bc/e00d8/DSF6375.jpg&quot;
+    href=&quot;/static/349d35b957c990056760241f4bcaebdd/09658/DSF6375.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1445,32 +1551,32 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.19999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAdKAtJLDH//EABgQAQADAQAAAAAAAAAAAAAAAAAREhMh/9oACAEBAAEFAqoQ15q3f//EABYRAAMAAAAAAAAAAAAAAAAAAAABEv/aAAgBAwEBPwGWSz//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAIAQIBAT8BrFP/xAAYEAADAQEAAAAAAAAAAAAAAAAAMqEQMf/aAAgBAQAGPwLeC0Wn/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAEhEBFBcfBR/9oACAEBAAE/IUFTlBlPpasuaLVnzR//2gAMAwEAAgADAAAAEBjP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxAr/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QUv/EABwQAAICAgMAAAAAAAAAAAAAAAABESFRYTGBsf/aAAgBAQABPxDUPwJ44GkTeFpcrRW8AdSTqP/Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 67.80000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBP/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/aAAwDAQACEAMQAAAB7Gd1Mzsv/8QAFxABAQEBAAAAAAAAAAAAAAAAABIBEf/aAAgBAQABBQKXHF4rF4//xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQMBAT8BjL//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAIAQIBAT8BrFv/xAAVEAEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAQAGPwJj/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAEhEBFBYZFx/9oACAEBAAE/IUFTvJSUrAt/D34f/9oADAMBAAIAAwAAABBjH//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/ELU//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZP/EABwQAAICAwEBAAAAAAAAAAAAAAABETEhkdFRYf/aAAgBAQABPxD5D/BPFDnNmaVqcqxOMa+ijrX0/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/11f0b910169d6fcaa447ca549f1bb6bc/601b1/DSF6375.webp 500w,
-/static/11f0b910169d6fcaa447ca549f1bb6bc/80c60/DSF6375.webp 1000w,
-/static/11f0b910169d6fcaa447ca549f1bb6bc/fab06/DSF6375.webp 2000w,
-/static/11f0b910169d6fcaa447ca549f1bb6bc/60834/DSF6375.webp 2047w&quot;
+          srcset=&quot;/static/349d35b957c990056760241f4bcaebdd/601b1/DSF6375.webp 500w,
+/static/349d35b957c990056760241f4bcaebdd/80c60/DSF6375.webp 1000w,
+/static/349d35b957c990056760241f4bcaebdd/fab06/DSF6375.webp 2000w,
+/static/349d35b957c990056760241f4bcaebdd/96d48/DSF6375.webp 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/11f0b910169d6fcaa447ca549f1bb6bc/953fe/DSF6375.jpg 500w,
-/static/11f0b910169d6fcaa447ca549f1bb6bc/0a251/DSF6375.jpg 1000w,
-/static/11f0b910169d6fcaa447ca549f1bb6bc/451a4/DSF6375.jpg 2000w,
-/static/11f0b910169d6fcaa447ca549f1bb6bc/e00d8/DSF6375.jpg 2047w&quot;
+          srcset=&quot;/static/349d35b957c990056760241f4bcaebdd/953fe/DSF6375.jpg 500w,
+/static/349d35b957c990056760241f4bcaebdd/0a251/DSF6375.jpg 1000w,
+/static/349d35b957c990056760241f4bcaebdd/451a4/DSF6375.jpg 2000w,
+/static/349d35b957c990056760241f4bcaebdd/09658/DSF6375.jpg 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/11f0b910169d6fcaa447ca549f1bb6bc/451a4/DSF6375.jpg&quot;
+          src=&quot;/static/349d35b957c990056760241f4bcaebdd/451a4/DSF6375.jpg&quot;
           alt=&quot;Helsinki, Finland&quot;
           title=&quot;Helsinki, Finland&quot;
-          src=&quot;/static/11f0b910169d6fcaa447ca549f1bb6bc/451a4/DSF6375.jpg&quot;
+          src=&quot;/static/349d35b957c990056760241f4bcaebdd/451a4/DSF6375.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1479,6 +1585,167 @@
   &lt;/a&gt;
     
   &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Helsinki, Finland&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;div class=&quot;street-0-row&quot;&gt;
+&lt;div class=&quot;street-0-col-0&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/41efd5246a5b22a92d54d5e46a4bea73/49b32/DSC0422.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1535px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEGAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7uRWMCyXdSyaKQP/xAAcEAACAQUBAAAAAAAAAAAAAAAAAxEBAhATIiD/2gAIAQEAAQUCz0dEXG5hRrJ2M8f/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwEh/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/Acqv/8QAGxAAAgIDAQAAAAAAAAAAAAAAADEBQRAgkaH/2gAIAQEABj8CzQ44PwY5L0//xAAfEAACAQIHAAAAAAAAAAAAAAAAEQEQIVFhcZGhsfD/2gAIAQEAAT8hQr017ZEwMiIQ25Jbdh7sUYV//9oADAMBAAIAAwAAABALEk//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8QiITH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QqqU//8QAIBAAAgEEAQUAAAAAAAAAAAAAAAERIVHR8DFBYYGRwf/aAAgBAQABPxBj6EEShp0uJ8YaN0bJu8iErn0rkWsI1J3PQpHCLwSS7s//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/41efd5246a5b22a92d54d5e46a4bea73/601b1/DSC0422.webp 500w,
+/static/41efd5246a5b22a92d54d5e46a4bea73/80c60/DSC0422.webp 1000w,
+/static/41efd5246a5b22a92d54d5e46a4bea73/33007/DSC0422.webp 1535w&quot;
+          sizes=&quot;(max-width: 1535px) 100vw, 1535px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/41efd5246a5b22a92d54d5e46a4bea73/953fe/DSC0422.jpg 500w,
+/static/41efd5246a5b22a92d54d5e46a4bea73/0a251/DSC0422.jpg 1000w,
+/static/41efd5246a5b22a92d54d5e46a4bea73/49b32/DSC0422.jpg 1535w&quot;
+          sizes=&quot;(max-width: 1535px) 100vw, 1535px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/41efd5246a5b22a92d54d5e46a4bea73/49b32/DSC0422.jpg&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
+          src=&quot;/static/41efd5246a5b22a92d54d5e46a4bea73/49b32/DSC0422.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;street-0-col-1&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1348px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 151.99999999999997%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABqXa7VmdFg70NPIIEwf/EABwQAAICAwEBAAAAAAAAAAAAAAEDAAIEERMUNP/aAAgBAQABBQJb2KBvkgex0qIz5yIARVjqcYMe2vMdcTP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAfEAAABgEFAAAAAAAAAAAAAAAAAQIQETISIUFxcqH/2gAIAQEABj8ChB6DKFcwL+Mrq07GFFmU4tYXFh//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMVHwYZGx/9oACAEBAAE/IXNFZ0RYyAtp1OoTEw9/EyQijgYkjqm/EXMQCtTe+I26ep//2gAMAwEAAgADAAAAEKAMPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB8QAQACAgAHAAAAAAAAAAAAAAEAESExEEFhcYGh8P/aAAgBAQABPxBhrLF2fJLccRQbXrWY2/P1AWSE9Zl1vCDKDRE5DW4nqIA2tMVwlUEZCliSp7SZFlR//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/08a04931d4793eeec508519d0c97107f/601b1/DSC0273.webp 500w,
+/static/08a04931d4793eeec508519d0c97107f/80c60/DSC0273.webp 1000w,
+/static/08a04931d4793eeec508519d0c97107f/d3725/DSC0273.webp 1348w&quot;
+          sizes=&quot;(max-width: 1348px) 100vw, 1348px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/08a04931d4793eeec508519d0c97107f/953fe/DSC0273.jpg 500w,
+/static/08a04931d4793eeec508519d0c97107f/0a251/DSC0273.jpg 1000w,
+/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg 1348w&quot;
+          sizes=&quot;(max-width: 1348px) 100vw, 1348px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
+          src=&quot;/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c54c94b2542f677925c5678062493d53/09658/20231205_120112.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 2000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlt4dE80P/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEDEgIRFDH/2gAIAQEAAQUCjiuuca04sqlx+//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAAxARBRYZH/2gAIAQEABj8CcjnlLYsV/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARITGR/9oACAEBAAE/IQtobrCUkuQeQxw0wEDPF5Ntn//aAAwDAQACAAMAAAAQN+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAQgf/aAAgBAgEBPxCn/8QAHxABAQACAQQDAAAAAAAAAAAAAREAITFBUWFxkaGx/9oACAEBAAE/EOmkBUXt7x1thBJVvHzhsiKVMFinleBJ95tzm7d0/uI4qtmf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c54c94b2542f677925c5678062493d53/601b1/20231205_120112.webp 500w,
+/static/c54c94b2542f677925c5678062493d53/80c60/20231205_120112.webp 1000w,
+/static/c54c94b2542f677925c5678062493d53/fab06/20231205_120112.webp 2000w,
+/static/c54c94b2542f677925c5678062493d53/96d48/20231205_120112.webp 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c54c94b2542f677925c5678062493d53/953fe/20231205_120112.jpg 500w,
+/static/c54c94b2542f677925c5678062493d53/0a251/20231205_120112.jpg 1000w,
+/static/c54c94b2542f677925c5678062493d53/451a4/20231205_120112.jpg 2000w,
+/static/c54c94b2542f677925c5678062493d53/09658/20231205_120112.jpg 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c54c94b2542f677925c5678062493d53/451a4/20231205_120112.jpg&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
+          src=&quot;/static/c54c94b2542f677925c5678062493d53/451a4/20231205_120112.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
 &lt;p&gt;
@@ -1959,167 +2226,6 @@
   &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Helsinki, Finland&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
-&lt;div class=&quot;city-1-row&quot;&gt;
-&lt;div class=&quot;city-1-col-0&quot;&gt;
-&lt;p&gt;
-  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
-  
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2c39a9689e7891163e4939759d571777/d58d1/DSF5075.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 1536px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAaDyEubBNCOnPZWFD//EABsQAAIDAAMAAAAAAAAAAAAAAAABAgMSEyAh/9oACAEBAAEFAlJGkaITSKrGcxvzTNPp/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPwGEW//EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8BpXv/xAAdEAABBAIDAAAAAAAAAAAAAAARAAEQIQIxIFHh/9oACAEBAAY/ApJem7WZ29r1CN8P/8QAHBAAAwACAwEAAAAAAAAAAAAAAAERIUExYXEg/9oACAEBAAE/IWnyXTmuyDI4O5Z6GnTBHpb2xjK+szVM7Hx//9oADAMBAAIAAwAAABAsPvP/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAwEBPxAQf//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPxBaN//EACAQAQACAgIBBQAAAAAAAAAAAAEAESExQWFREJGhscH/2gAIAQEAAT8QIGWFDzRcyznbatYe8kbNPsxk0oCXYAOIObkGFsXro+I01VrhH1EKKVFTx1K7Aeoq/p6k/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/2c39a9689e7891163e4939759d571777/601b1/DSF5075.webp 500w,
-/static/2c39a9689e7891163e4939759d571777/80c60/DSF5075.webp 1000w,
-/static/2c39a9689e7891163e4939759d571777/f3efb/DSF5075.webp 1536w&quot;
-          sizes=&quot;(max-width: 1536px) 100vw, 1536px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/2c39a9689e7891163e4939759d571777/953fe/DSF5075.jpg 500w,
-/static/2c39a9689e7891163e4939759d571777/0a251/DSF5075.jpg 1000w,
-/static/2c39a9689e7891163e4939759d571777/d58d1/DSF5075.jpg 1536w&quot;
-          sizes=&quot;(max-width: 1536px) 100vw, 1536px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/2c39a9689e7891163e4939759d571777/d58d1/DSF5075.jpg&quot;
-          alt=&quot;Budapest, Hungary&quot;
-          title=&quot;Budapest, Hungary&quot;
-          src=&quot;/static/2c39a9689e7891163e4939759d571777/d58d1/DSF5075.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Budapest, Hungary&lt;/figcaption&gt;
-  &lt;/figure&gt;
-      &lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;city-1-col-1&quot;&gt;
-&lt;p&gt;
-  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
-  
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 1348px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 151.99999999999997%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABqXa7VmdFg70NPIIEwf/EABwQAAICAwEBAAAAAAAAAAAAAAEDAAIEERMUNP/aAAgBAQABBQJb2KBvkgex0qIz5yIARVjqcYMe2vMdcTP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAfEAAABgEFAAAAAAAAAAAAAAAAAQIQETISIUFxcqH/2gAIAQEABj8ChB6DKFcwL+Mrq07GFFmU4tYXFh//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMVHwYZGx/9oACAEBAAE/IXNFZ0RYyAtp1OoTEw9/EyQijgYkjqm/EXMQCtTe+I26ep//2gAMAwEAAgADAAAAEKAMPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB8QAQACAgAHAAAAAAAAAAAAAAEAESExEEFhcYGh8P/aAAgBAQABPxBhrLF2fJLccRQbXrWY2/P1AWSE9Zl1vCDKDRE5DW4nqIA2tMVwlUEZCliSp7SZFlR//9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/08a04931d4793eeec508519d0c97107f/601b1/DSC0273.webp 500w,
-/static/08a04931d4793eeec508519d0c97107f/80c60/DSC0273.webp 1000w,
-/static/08a04931d4793eeec508519d0c97107f/d3725/DSC0273.webp 1348w&quot;
-          sizes=&quot;(max-width: 1348px) 100vw, 1348px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/08a04931d4793eeec508519d0c97107f/953fe/DSC0273.jpg 500w,
-/static/08a04931d4793eeec508519d0c97107f/0a251/DSC0273.jpg 1000w,
-/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg 1348w&quot;
-          sizes=&quot;(max-width: 1348px) 100vw, 1348px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg&quot;
-          alt=&quot;Oslo, Norway&quot;
-          title=&quot;Oslo, Norway&quot;
-          src=&quot;/static/08a04931d4793eeec508519d0c97107f/e335e/DSC0273.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
-  &lt;/figure&gt;
-      &lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;
-  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
-  
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c54c94b2542f677925c5678062493d53/09658/20231205_120112.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 2000px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlt4dE80P/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEDEgIRFDH/2gAIAQEAAQUCjiuuca04sqlx+//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAAxARBRYZH/2gAIAQEABj8CcjnlLYsV/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARITGR/9oACAEBAAE/IQtobrCUkuQeQxw0wEDPF5Ntn//aAAwDAQACAAMAAAAQN+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAQgf/aAAgBAgEBPxCn/8QAHxABAQACAQQDAAAAAAAAAAAAAREAITFBUWFxkaGx/9oACAEBAAE/EOmkBUXt7x1thBJVvHzhsiKVMFinleBJ95tzm7d0/uI4qtmf/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/c54c94b2542f677925c5678062493d53/601b1/20231205_120112.webp 500w,
-/static/c54c94b2542f677925c5678062493d53/80c60/20231205_120112.webp 1000w,
-/static/c54c94b2542f677925c5678062493d53/fab06/20231205_120112.webp 2000w,
-/static/c54c94b2542f677925c5678062493d53/96d48/20231205_120112.webp 2048w&quot;
-          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/c54c94b2542f677925c5678062493d53/953fe/20231205_120112.jpg 500w,
-/static/c54c94b2542f677925c5678062493d53/0a251/20231205_120112.jpg 1000w,
-/static/c54c94b2542f677925c5678062493d53/451a4/20231205_120112.jpg 2000w,
-/static/c54c94b2542f677925c5678062493d53/09658/20231205_120112.jpg 2048w&quot;
-          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/c54c94b2542f677925c5678062493d53/451a4/20231205_120112.jpg&quot;
-          alt=&quot;Oslo, Norway&quot;
-          title=&quot;Oslo, Norway&quot;
-          src=&quot;/static/c54c94b2542f677925c5678062493d53/451a4/20231205_120112.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
-  &lt;/figure&gt;
-      &lt;/p&gt;
 &lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
@@ -2178,7 +2284,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b0bb7404351fadac1305131959168b41/e00d8/DSF2013.jpg&quot;
+    href=&quot;/static/c6e44ac7df1f2a1b8e961d07d03d38d4/e00d8/DSF2013.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2190,32 +2296,32 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAQP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/9oADAMBAAIQAxAAAAHdE3J5sTkeeyy2Gf/EABsQAAIDAAMAAAAAAAAAAAAAAAECABESAxAy/9oACAEBAAEFAj6BvrmeoNUrUMLAomRP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAECAQE/AXS//8QAHBAAAgEFAQAAAAAAAAAAAAAAAAEQERIhMWFx/9oACAEBAAY/An6dhWvI3VcNmp//xAAaEAEAAwADAAAAAAAAAAAAAAABABEhMUFh/9oACAEBAAE/IS5DGy8StQKCUaWyy4Ei+uBAEdTCB9Twn//aAAwDAQACAAMAAAAQyOiC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxBJaQpWf//EABgRAAMBAQAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EKahhERw/8QAHBABAAMAAwEBAAAAAAAAAAAAAQARITFBUWGB/9oACAEBAAE/EL+ygiF9EqZ2Axr2oQrujn2EhCC1SPbOLv8AShtbAzoNfv5CphoAjgFTCU4Gf//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAQP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHdE3ImxOk89my2Gf/EABsQAAIDAAMAAAAAAAAAAAAAAAECABESAxAy/9oACAEBAAEFAj6BvrmeoNUrUMLAomRP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAECAQE/AXS//8QAHBAAAgEFAQAAAAAAAAAAAAAAAAEQERIhMWFx/9oACAEBAAY/An6dhWvI3VcNmp//xAAaEAEAAwADAAAAAAAAAAAAAAABABEhMUFh/9oACAEBAAE/IS5DGy8StQKCUaWyy4Ei+uBAEdTCB9Twn//aAAwDAQACAAMAAAAQwOiA/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxBJaQpWf//EABgRAAMBAQAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EKahhERw/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBUfH/2gAIAQEAAT8Qv7KCIX0SpnYDGvahCu6OfYSEILVI9s4u/wBKG1sDOg1+TJhoAjgFTCU8Gf/Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/b0bb7404351fadac1305131959168b41/601b1/DSF2013.webp 500w,
-/static/b0bb7404351fadac1305131959168b41/80c60/DSF2013.webp 1000w,
-/static/b0bb7404351fadac1305131959168b41/fab06/DSF2013.webp 2000w,
-/static/b0bb7404351fadac1305131959168b41/60834/DSF2013.webp 2047w&quot;
+          srcset=&quot;/static/c6e44ac7df1f2a1b8e961d07d03d38d4/601b1/DSF2013.webp 500w,
+/static/c6e44ac7df1f2a1b8e961d07d03d38d4/80c60/DSF2013.webp 1000w,
+/static/c6e44ac7df1f2a1b8e961d07d03d38d4/fab06/DSF2013.webp 2000w,
+/static/c6e44ac7df1f2a1b8e961d07d03d38d4/60834/DSF2013.webp 2047w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/b0bb7404351fadac1305131959168b41/953fe/DSF2013.jpg 500w,
-/static/b0bb7404351fadac1305131959168b41/0a251/DSF2013.jpg 1000w,
-/static/b0bb7404351fadac1305131959168b41/451a4/DSF2013.jpg 2000w,
-/static/b0bb7404351fadac1305131959168b41/e00d8/DSF2013.jpg 2047w&quot;
+          srcset=&quot;/static/c6e44ac7df1f2a1b8e961d07d03d38d4/953fe/DSF2013.jpg 500w,
+/static/c6e44ac7df1f2a1b8e961d07d03d38d4/0a251/DSF2013.jpg 1000w,
+/static/c6e44ac7df1f2a1b8e961d07d03d38d4/451a4/DSF2013.jpg 2000w,
+/static/c6e44ac7df1f2a1b8e961d07d03d38d4/e00d8/DSF2013.jpg 2047w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/b0bb7404351fadac1305131959168b41/451a4/DSF2013.jpg&quot;
+          src=&quot;/static/c6e44ac7df1f2a1b8e961d07d03d38d4/451a4/DSF2013.jpg&quot;
           alt=&quot;Bergen, Norway&quot;
           title=&quot;Bergen, Norway&quot;
-          src=&quot;/static/b0bb7404351fadac1305131959168b41/451a4/DSF2013.jpg&quot;
+          src=&quot;/static/c6e44ac7df1f2a1b8e961d07d03d38d4/451a4/DSF2013.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -3400,7 +3506,7 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6d3a08b3c2a433f944e785996aa5aa0b/09658/DSF2962.jpg&quot;
+    href=&quot;/static/0df326ee079a252269dbc08a6c822d1b/09658/DSF2962.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -3412,32 +3518,32 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeywLnO0zlUzEBP/xAAZEAACAwEAAAAAAAAAAAAAAAABEgAQEQL/2gAIAQEAAQUCcCNtYZywjd1tf//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwEjf//EABYRAQEBAAAAAAAAAAAAAAAAABIAEP/aAAgBAgEBPwFS3//EABsQAAEEAwAAAAAAAAAAAAAAAAABECExIEFx/9oACAEBAAY/ApgtF49G8P/EAB0QAQEBAAAHAAAAAAAAAAAAAAEAESFBYXGBkbH/2gAIAQEAAT8h5gdzY+gjzauosMuK6ntDKtb/2gAMAwEAAgADAAAAEPsngf/EABgRAAIDAAAAAAAAAAAAAAAAAAABEFFx/9oACAEDAQE/EEtm5//EABgRAQEAAwAAAAAAAAAAAAAAAAEAEEFx/9oACAECAQE/EFaLhnH/xAAdEAADAAICAwAAAAAAAAAAAAAAAREhMUFRYXGR/9oACAEBAAE/EIL5RKFNKFVBjJLK+h2hdvI00OMwUcKXUDCBehS2f//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAezwLXO0zlUzEBv/xAAZEAACAwEAAAAAAAAAAAAAAAABEgAQEQL/2gAIAQEAAQUCcCNtYZywjd1tf//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwEjf//EABYRAQEBAAAAAAAAAAAAAAAAABIAEP/aAAgBAgEBPwFS3//EABsQAAEEAwAAAAAAAAAAAAAAAAABECExIEFx/9oACAEBAAY/ApgtF49G8P/EAB0QAQEBAAAHAAAAAAAAAAAAAAEAESFBYXGBkbH/2gAIAQEAAT8h5gdzY+gjzauosMuK6ntDKtb/2gAMAwEAAgADAAAAEJ8nwP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEFFx/9oACAEDAQE/EEtmp//EABgRAQEAAwAAAAAAAAAAAAAAAAEAEEFx/9oACAECAQE/EFaLhnH/xAAdEAADAAICAwAAAAAAAAAAAAAAAREhMUFRYXGR/9oACAEBAAE/EIL5RKFNKFVBjJLK+h2hdvI00OMwUcKXUDCBehS2f//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/6d3a08b3c2a433f944e785996aa5aa0b/601b1/DSF2962.webp 500w,
-/static/6d3a08b3c2a433f944e785996aa5aa0b/80c60/DSF2962.webp 1000w,
-/static/6d3a08b3c2a433f944e785996aa5aa0b/fab06/DSF2962.webp 2000w,
-/static/6d3a08b3c2a433f944e785996aa5aa0b/96d48/DSF2962.webp 2048w&quot;
+          srcset=&quot;/static/0df326ee079a252269dbc08a6c822d1b/601b1/DSF2962.webp 500w,
+/static/0df326ee079a252269dbc08a6c822d1b/80c60/DSF2962.webp 1000w,
+/static/0df326ee079a252269dbc08a6c822d1b/fab06/DSF2962.webp 2000w,
+/static/0df326ee079a252269dbc08a6c822d1b/96d48/DSF2962.webp 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/6d3a08b3c2a433f944e785996aa5aa0b/953fe/DSF2962.jpg 500w,
-/static/6d3a08b3c2a433f944e785996aa5aa0b/0a251/DSF2962.jpg 1000w,
-/static/6d3a08b3c2a433f944e785996aa5aa0b/451a4/DSF2962.jpg 2000w,
-/static/6d3a08b3c2a433f944e785996aa5aa0b/09658/DSF2962.jpg 2048w&quot;
+          srcset=&quot;/static/0df326ee079a252269dbc08a6c822d1b/953fe/DSF2962.jpg 500w,
+/static/0df326ee079a252269dbc08a6c822d1b/0a251/DSF2962.jpg 1000w,
+/static/0df326ee079a252269dbc08a6c822d1b/451a4/DSF2962.jpg 2000w,
+/static/0df326ee079a252269dbc08a6c822d1b/09658/DSF2962.jpg 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/6d3a08b3c2a433f944e785996aa5aa0b/451a4/DSF2962.jpg&quot;
+          src=&quot;/static/0df326ee079a252269dbc08a6c822d1b/451a4/DSF2962.jpg&quot;
           alt=&quot;Myken, Norway&quot;
           title=&quot;Myken, Norway&quot;
-          src=&quot;/static/6d3a08b3c2a433f944e785996aa5aa0b/451a4/DSF2962.jpg&quot;
+          src=&quot;/static/0df326ee079a252269dbc08a6c822d1b/451a4/DSF2962.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;

@@ -31,22 +31,6 @@ description: ""
 
 ![Helsinki, Finland](./DSF6666.jpg "Helsinki, Finland")
 
-<div class="city-1-row">
-<div class="city-1-col-0">
-
-![Budapest, Hungary](./DSF5075.jpg "Budapest, Hungary")
-
-</div>
-
-<div class="city-1-col-1">
-
-![Oslo, Norway](./DSC0273.jpg "Oslo, Norway")
-
-</div>
-</div>
-
-![Oslo, Norway](./20231205_120112.jpg "Oslo, Norway")
-
 ![Oslo, Norway](./DSF7944.jpg "Oslo, Norway")
 
 ![Bergen, Norway](./DSF2013.jpg "Bergen, Norway")

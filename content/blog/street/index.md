@@ -17,4 +17,20 @@ description: ""
 
 ![Helsinki, Finland](./DSF6375.jpg "Helsinki, Finland")
 
+<div class="street-0-row">
+<div class="street-0-col-0">
+
+![Oslo, Norway](./DSC0422.jpg "Oslo, Norway")
+
+</div>
+
+<div class="street-0-col-1">
+
+![Oslo, Norway](./DSC0273.jpg "Oslo, Norway")
+
+</div>
+</div>
+
+![Oslo, Norway](./20231205_120112.jpg "Oslo, Norway")
+
 ![Fredrikstad, Norway](./DSF8405.jpg "Fredrikstad, Norway")

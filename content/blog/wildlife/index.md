@@ -5,6 +5,10 @@ thumbnail: ./DSF0288.jpg
 description: ""
 ---
 
+![Great egret](./DSF0159.jpg "Great egret")
+
+![Great egret](./DSF9336.jpg "Great egret")
+
 ![White-throated dipper](./DSF6101.jpg "White-throated dipper")
 
 ![White-throated dipper](./DSF6027.jpg "White-throated dipper")
