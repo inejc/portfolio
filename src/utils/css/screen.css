@@ -869,11 +869,11 @@ body {
 }
 
 .scale-1-col-0 {
-    width: 52.5%;
+    width: 43.2%;
 }
 
 .scale-1-col-1 {
-    width: 43.2%;
+    width: 52.5%;
 }
 
 @media (max-width: 700px) {

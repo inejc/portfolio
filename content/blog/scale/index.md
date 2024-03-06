@@ -42,13 +42,13 @@ description: ""
 <div class="scale-1-row">
 <div class="scale-1-col-0">
 
-![Skjolden, Norway](./DSF3271.jpg "Skjolden, Norway")
+![Gudvangen, Norway](./DSF2810.jpg "Gudvangen, Norway")
 
 </div>
 
 <div class="scale-1-col-1">
 
-![Gudvangen, Norway](./DSF2810.jpg "Gudvangen, Norway")
+![Skjolden, Norway](./DSF3271.jpg "Skjolden, Norway")
 
 </div>
 </div>
