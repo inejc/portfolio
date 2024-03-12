@@ -53,4 +53,6 @@ description: ""
 </div>
 </div>
 
+![Romsdalen, Norway](./DSF0185.jpg "Romsdalen, Norway")
+
 ![Rødøyløva, Norway](./DSF2935.jpg "Rødøyløva, Norway")
