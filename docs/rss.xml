@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 Mar 2024 08:42:08 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Apr 2024 09:29:54 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
@@ -1700,7 +1700,58 @@
   
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fc6b5d6614458fc939486e6a9e4181c0/09658/DSF8405.jpg&quot;
+    href=&quot;/static/08d45d61d83acdbd28ac79b949e34c06/23b91/DSF1226.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1639px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAdNeB5tHEWYEUIQf/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECAxAREhP/2gAIAQEAAQUCqkNo9JkbZ697GObOmdM3h4//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAcEAACAQUBAAAAAAAAAAAAAAAAARECECAiMTL/2gAIAQEABj8Ch21lIlVHo7n/AP/EABsQAQACAwEBAAAAAAAAAAAAAAEAESExQRBx/9oACAEBAAE/IRFwTKyRRbh0EHsKvk12h8INjGU8j1Yq/Ofnn//aAAwDAQACAAMAAAAQNNTN/8QAFhEBAQEAAAAAAAAAAAAAAAAAEAER/9oACAEDAQE/EKaf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EBmT/8QAIBABAQACAQMFAAAAAAAAAAAAAREAMSFBUXFhgZGxwf/aAAgBAQABPxARBjOXc64tUyLboyzQRM+fXBgBWU5d7cFO/Gj8y1ELy+cgEAiDvFyvfeIVbjv2z6GdXzn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/08d45d61d83acdbd28ac79b949e34c06/601b1/DSF1226.webp 500w,
+/static/08d45d61d83acdbd28ac79b949e34c06/80c60/DSF1226.webp 1000w,
+/static/08d45d61d83acdbd28ac79b949e34c06/2449b/DSF1226.webp 1639w&quot;
+          sizes=&quot;(max-width: 1639px) 100vw, 1639px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/08d45d61d83acdbd28ac79b949e34c06/953fe/DSF1226.jpg 500w,
+/static/08d45d61d83acdbd28ac79b949e34c06/0a251/DSF1226.jpg 1000w,
+/static/08d45d61d83acdbd28ac79b949e34c06/23b91/DSF1226.jpg 1639w&quot;
+          sizes=&quot;(max-width: 1639px) 100vw, 1639px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/08d45d61d83acdbd28ac79b949e34c06/23b91/DSF1226.jpg&quot;
+          alt=&quot;Trieste, Italy&quot;
+          title=&quot;Trieste, Italy&quot;
+          src=&quot;/static/08d45d61d83acdbd28ac79b949e34c06/23b91/DSF1226.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Trieste, Italy&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/afe8631f7ec7320aa837ab3cb3495e1e/09658/DSF8405.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1716,28 +1767,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/fc6b5d6614458fc939486e6a9e4181c0/601b1/DSF8405.webp 500w,
-/static/fc6b5d6614458fc939486e6a9e4181c0/80c60/DSF8405.webp 1000w,
-/static/fc6b5d6614458fc939486e6a9e4181c0/fab06/DSF8405.webp 2000w,
-/static/fc6b5d6614458fc939486e6a9e4181c0/96d48/DSF8405.webp 2048w&quot;
+          srcset=&quot;/static/afe8631f7ec7320aa837ab3cb3495e1e/601b1/DSF8405.webp 500w,
+/static/afe8631f7ec7320aa837ab3cb3495e1e/80c60/DSF8405.webp 1000w,
+/static/afe8631f7ec7320aa837ab3cb3495e1e/fab06/DSF8405.webp 2000w,
+/static/afe8631f7ec7320aa837ab3cb3495e1e/96d48/DSF8405.webp 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/fc6b5d6614458fc939486e6a9e4181c0/953fe/DSF8405.jpg 500w,
-/static/fc6b5d6614458fc939486e6a9e4181c0/0a251/DSF8405.jpg 1000w,
-/static/fc6b5d6614458fc939486e6a9e4181c0/451a4/DSF8405.jpg 2000w,
-/static/fc6b5d6614458fc939486e6a9e4181c0/09658/DSF8405.jpg 2048w&quot;
+          srcset=&quot;/static/afe8631f7ec7320aa837ab3cb3495e1e/953fe/DSF8405.jpg 500w,
+/static/afe8631f7ec7320aa837ab3cb3495e1e/0a251/DSF8405.jpg 1000w,
+/static/afe8631f7ec7320aa837ab3cb3495e1e/451a4/DSF8405.jpg 2000w,
+/static/afe8631f7ec7320aa837ab3cb3495e1e/09658/DSF8405.jpg 2048w&quot;
           sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/fc6b5d6614458fc939486e6a9e4181c0/451a4/DSF8405.jpg&quot;
+          src=&quot;/static/afe8631f7ec7320aa837ab3cb3495e1e/451a4/DSF8405.jpg&quot;
           alt=&quot;Fredrikstad, Norway&quot;
           title=&quot;Fredrikstad, Norway&quot;
-          src=&quot;/static/fc6b5d6614458fc939486e6a9e4181c0/451a4/DSF8405.jpg&quot;
+          src=&quot;/static/afe8631f7ec7320aa837ab3cb3495e1e/451a4/DSF8405.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -2224,6 +2275,57 @@
   &lt;/a&gt;
     
   &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7423cc136919ec47af28251798484f80/0d39f/DSF1204.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1638px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/9oADAMBAAIQAxAAAAFXgpX2IK4luOPSRHj/AP/EABwQAAIBBQEAAAAAAAAAAAAAAAABAhAREhMhMf/aAAgBAQABBQIg1qh4xSWvKwxcOSHRH//EABgRAAIDAAAAAAAAAAAAAAAAAAADARAS/9oACAEDAQE/AWG4GV//xAAYEQEBAAMAAAAAAAAAAAAAAAAAAQIREv/aAAgBAgEBPwHFzUbf/8QAGxAAAgEFAAAAAAAAAAAAAAAAAREgABASQVH/2gAIAQEABj8CoPpvjtwcP//EABsQAAIDAAMAAAAAAAAAAAAAAAABESExEGGB/9oACAEBAAE/IXgqpJdQi2oswbp2MaVfg1Da7kwaDHL/2gAMAwEAAgADAAAAEL8ZcP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAMRD/2gAIAQMBAT8QwQBY5//EABcRAQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQIBAT8QJG6f/8QAIBAAAgMAAQQDAAAAAAAAAAAAAREAITFBEFFxgZGh8P/aAAgBAQABPxAbT4TsDV/cCK02jYVpWEQ+3DiYoDALavz6Jvk2CEjsEpvBvqYPmf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/7423cc136919ec47af28251798484f80/601b1/DSF1204.webp 500w,
+/static/7423cc136919ec47af28251798484f80/80c60/DSF1204.webp 1000w,
+/static/7423cc136919ec47af28251798484f80/26cc1/DSF1204.webp 1638w&quot;
+          sizes=&quot;(max-width: 1638px) 100vw, 1638px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/7423cc136919ec47af28251798484f80/953fe/DSF1204.jpg 500w,
+/static/7423cc136919ec47af28251798484f80/0a251/DSF1204.jpg 1000w,
+/static/7423cc136919ec47af28251798484f80/0d39f/DSF1204.jpg 1638w&quot;
+          sizes=&quot;(max-width: 1638px) 100vw, 1638px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/7423cc136919ec47af28251798484f80/0d39f/DSF1204.jpg&quot;
+          alt=&quot;Trieste, Italy&quot;
+          title=&quot;Trieste, Italy&quot;
+          src=&quot;/static/7423cc136919ec47af28251798484f80/0d39f/DSF1204.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Trieste, Italy&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
 &lt;p&gt;

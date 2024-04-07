@@ -33,4 +33,6 @@ description: ""
 
 ![Oslo, Norway](./20231205_120112.jpg "Oslo, Norway")
 
+![Trieste, Italy](./DSF1226.jpg "Trieste, Italy")
+
 ![Fredrikstad, Norway](./DSF8405.jpg "Fredrikstad, Norway")
