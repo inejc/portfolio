@@ -5,6 +5,10 @@ thumbnail: ./DSC3458.jpg
 description: ""
 ---
 
+![Madeira, Portugal](./DSF3462.jpg "Madeira, Portugal")
+
+![Madeira, Portugal](./DSF3214.jpg "Madeira, Portugal")
+
 ![Mariholtet, Norway](./DSC3458.jpg "Mariholtet, Norway")
 
 <div class="trees-1-row">
