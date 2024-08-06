@@ -980,3 +980,33 @@ body {
         width: 100%;
     }
 }
+
+/* Street album custom image pair 1 */
+.street-1-row {
+    display: flex;
+    width: 100%;
+    gap: 5%;
+}
+
+.street-1-col-0 {
+    width: 53.3%;
+}
+
+.street-1-col-1 {
+    width: 44%;
+}
+
+@media (max-width: 700px) {
+    .street-1-row {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .street-1-col-0 {
+        width: 100%;
+    }
+
+    .street-1-col-1 {
+        width: 100%;
+    }
+}

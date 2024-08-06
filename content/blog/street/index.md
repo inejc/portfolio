@@ -13,6 +13,8 @@ description: ""
 
 ![Budapest, Hungary](./DSF5535.jpg "Budapest, Hungary")
 
+![Madeira, Portugal](./DSF3660.jpg "Madeira, Portugal")
+
 ![Bjørvika, Norway](./DSF8257.jpg "Bjørvika, Norway")
 
 ![Helsinki, Finland](./DSF6375.jpg "Helsinki, Finland")
@@ -33,6 +35,18 @@ description: ""
 
 ![Oslo, Norway](./20231205_120112.jpg "Oslo, Norway")
 
+<div class="street-1-row">
+<div class="street-1-col-0">
+
 ![Trieste, Italy](./DSF1226.jpg "Trieste, Italy")
+
+</div>
+
+<div class="street-1-col-1">
+
+![Eger, Hungary](./DSF1927.jpg "Eger, Hungary")
+
+</div>
+</div>
 
 ![Fredrikstad, Norway](./DSF8405.jpg "Fredrikstad, Norway")

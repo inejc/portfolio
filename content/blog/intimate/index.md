@@ -11,6 +11,8 @@ description: ""
 
 ![Dovrefjell, Norway](./DSF0097.jpg "Dovrefjell, Norway")
 
+![Madeira, Portugal](./DSF2144.jpg "Madeira, Portugal")
+
 ![Nigardsbreen, Norway](./DSF3655.jpg "Nigardsbreen, Norway")
 
 ![Oslo, Norway](./DSC0234.jpg "Oslo, Norway")
