@@ -239,12 +239,6 @@ body {
     align-items: center;
 }
 
-.social-links {
-    flex-shrink: 0;
-    display: flex;
-    align-items: center;
-}
-
 .subscribe-button {
     display: block;
     padding: 4px 10px;
@@ -273,6 +267,27 @@ body {
     margin-bottom: 1px;
     height: 2.1rem;
     fill: var(--color-base);
+}
+
+.social-link {
+    color: #909090;
+    margin-top: 10rem;
+    margin-bottom: -10rem;
+}
+
+.social-icon {
+    margin-right: .4rem;
+}
+
+@media (max-width: 700px) {
+    .social-link {
+        margin-top: 2.2rem;
+        margin-bottom: -2.2rem;
+    }
+
+    .social-icon {
+        width: 20%;
+    }
 }
 
 
@@ -360,11 +375,6 @@ body {
         order: 3;
         width: 100%;
         margin-top: 3vw;
-    }
-
-    .social-links {
-        flex-direction: column;
-        align-items: flex-start;
     }
 
     .site-head-open {
@@ -921,6 +931,36 @@ body {
     }
 }
 
+/* Scale album custom image pair 3 */
+.scale-3-row {
+    display: flex;
+    width: 100%;
+    gap: 4.5%;
+}
+
+.scale-3-col-0 {
+    width: 50.5%;
+}
+
+.scale-3-col-1 {
+    width: 45%;
+}
+
+@media (max-width: 700px) {
+    .scale-3-row {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .scale-3-col-0 {
+        width: 100%;
+    }
+
+    .scale-3-col-1 {
+        width: 100%;
+    }
+}
+
 /* City album custom image pair 0 */
 .city-0-row {
     display: flex;
@@ -1007,6 +1047,36 @@ body {
     }
 
     .street-1-col-1 {
+        width: 100%;
+    }
+}
+
+/* Street album custom image pair 2 */
+.street-2-row {
+    display: flex;
+    width: 100%;
+    gap: 5%;
+}
+
+.street-2-col-0 {
+    width: 47.5%;
+}
+
+.street-2-col-1 {
+    width: 47.5%;
+}
+
+@media (max-width: 700px) {
+    .street-2-row {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .street-2-col-0 {
+        width: 100%;
+    }
+
+    .street-2-col-1 {
         width: 100%;
     }
 }

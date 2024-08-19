@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 06 Aug 2024 20:21:11 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nejc Ilenic]]></title><description><![CDATA[Photography portfolio]]></description><link>https://ilenic.photos</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 19 Aug 2024 20:23:22 GMT</lastBuildDate><item><title><![CDATA[Intimate]]></title><link>https://ilenic.photos/intimate/</link><guid isPermaLink="false">https://ilenic.photos/intimate/</guid><pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a
@@ -567,8 +567,8 @@
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
           src=&quot;/static/068e11a3c3144b09f7ea910a32b6f36b/fe1e7/DSF8911.jpg&quot;
-          alt=&quot;Ekeberg, Norway&quot;
-          title=&quot;Ekeberg, Norway&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
           src=&quot;/static/068e11a3c3144b09f7ea910a32b6f36b/fe1e7/DSF8911.jpg&quot;
         /&gt;
       &lt;/picture&gt;
@@ -577,7 +577,7 @@
   
   &lt;/a&gt;
     
-  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Ekeberg, Norway&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
 &lt;/div&gt;
@@ -1415,8 +1415,8 @@
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
           src=&quot;/static/68d6ea386c439840b89b8ecb1b465cf0/451a4/DSF7550.jpg&quot;
-          alt=&quot;Aker Brygge, Norway&quot;
-          title=&quot;Aker Brygge, Norway&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
           src=&quot;/static/68d6ea386c439840b89b8ecb1b465cf0/451a4/DSF7550.jpg&quot;
         /&gt;
       &lt;/picture&gt;
@@ -1425,9 +1425,117 @@
   
   &lt;/a&gt;
     
-  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Aker Brygge, Norway&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
+&lt;div class=&quot;street-2-row&quot;&gt;
+&lt;div class=&quot;street-2-col-0&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f8a347aadba3c7660f37485146a4fa93/2cc10/DSC1284.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1368px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 149.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBP/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAYb3bSedYntVDkqD/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECERMDEP/aAAgBAQABBQLVilIuRHmkUUV7mzNmbP/EABYRAAMAAAAAAAAAAAAAAAAAAAERIP/aAAgBAwEBPwEOP//EABgRAAIDAAAAAAAAAAAAAAAAAAABAhAR/9oACAECAQE/AWomK//EABkQAAIDAQAAAAAAAAAAAAAAAAAxECAhMv/aAAgBAQAGPwKEbZjOj//EACEQAAIBAwMFAAAAAAAAAAAAAAABERAhkTFBYYGhsfDx/9oACAEBAAE/IUz4NKy7HtVIw28kOc0QQXtODi4EtRd0P//aAAwDAQACAAMAAAAQQMQM/8QAGBEAAgMAAAAAAAAAAAAAAAAAABARITH/2gAIAQMBAT8Ql0t//8QAFhEBAQEAAAAAAAAAAAAAAAAAASAx/9oACAECAQE/EA4w/wD/xAAfEAEAAgICAgMAAAAAAAAAAAABABEhQTFRYZGh8PH/2gAIAQEAAT8QEtAWLUr52ge0MXVdFx4MDxD3wU7IVXOaxMevU52Pr9y44H77hlFG9/mf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/f8a347aadba3c7660f37485146a4fa93/601b1/DSC1284.webp 500w,
+/static/f8a347aadba3c7660f37485146a4fa93/80c60/DSC1284.webp 1000w,
+/static/f8a347aadba3c7660f37485146a4fa93/3ac9e/DSC1284.webp 1368w&quot;
+          sizes=&quot;(max-width: 1368px) 100vw, 1368px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/f8a347aadba3c7660f37485146a4fa93/953fe/DSC1284.jpg 500w,
+/static/f8a347aadba3c7660f37485146a4fa93/0a251/DSC1284.jpg 1000w,
+/static/f8a347aadba3c7660f37485146a4fa93/2cc10/DSC1284.jpg 1368w&quot;
+          sizes=&quot;(max-width: 1368px) 100vw, 1368px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/f8a347aadba3c7660f37485146a4fa93/2cc10/DSC1284.jpg&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
+          src=&quot;/static/f8a347aadba3c7660f37485146a4fa93/2cc10/DSC1284.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;street-2-col-1&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1c053582a9788ee680c4e978dc75799d/2cc10/DSC1343.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1368px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 149.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB0VUcUOgvqxLh/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAESIREi/9oACAEBAAEFAq1Mop9tls000aTWHk//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAACAQQDAAAAAAAAAAAAAAAAAUECIjGRECEy/9oACAEBAAY/AvMFNqHajC0LpaMLRnmSST//xAAcEAACAgMBAQAAAAAAAAAAAAAAEQExIVFxYZH/2gAIAQEAAT8hR8PTHysDrNFtjZmaBjChs7R0JhLO4EQVHH0f/9oADAMBAAIAAwAAABAf/AD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxAh/8QAHhABAQACAgIDAAAAAAAAAAAAAREAIUFRMWFxoeH/2gAIAQEAAT8QWPb5V2dZMpObcmsa2LW8Y2vl2uArJ9Rxx1iIiEYk/RnJMAEp8mPLPslxFAV3TA/Az//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/1c053582a9788ee680c4e978dc75799d/601b1/DSC1343.webp 500w,
+/static/1c053582a9788ee680c4e978dc75799d/80c60/DSC1343.webp 1000w,
+/static/1c053582a9788ee680c4e978dc75799d/3ac9e/DSC1343.webp 1368w&quot;
+          sizes=&quot;(max-width: 1368px) 100vw, 1368px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/1c053582a9788ee680c4e978dc75799d/953fe/DSC1343.jpg 500w,
+/static/1c053582a9788ee680c4e978dc75799d/0a251/DSC1343.jpg 1000w,
+/static/1c053582a9788ee680c4e978dc75799d/2cc10/DSC1343.jpg 1368w&quot;
+          sizes=&quot;(max-width: 1368px) 100vw, 1368px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/1c053582a9788ee680c4e978dc75799d/2cc10/DSC1343.jpg&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
+          src=&quot;/static/1c053582a9788ee680c4e978dc75799d/2cc10/DSC1343.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
@@ -1680,8 +1788,8 @@
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
           src=&quot;/static/35dcb411daf73d2f65b09253351808b2/451a4/DSF8257.jpg&quot;
-          alt=&quot;Bjørvika, Norway&quot;
-          title=&quot;Bjørvika, Norway&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
           src=&quot;/static/35dcb411daf73d2f65b09253351808b2/451a4/DSF8257.jpg&quot;
         /&gt;
       &lt;/picture&gt;
@@ -1690,7 +1798,7 @@
   
   &lt;/a&gt;
     
-  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Bjørvika, Norway&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
       &lt;/p&gt;
 &lt;p&gt;
@@ -2536,6 +2644,59 @@
           alt=&quot;Oslo, Norway&quot;
           title=&quot;Oslo, Norway&quot;
           src=&quot;/static/e55ad34b44325a830ba657fdeb846a6a/451a4/DSF7944.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4a1ffc4329529578a6b33a06a23dcc11/09658/DSC1221.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 2000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABxqlgpEzb/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECERASMf/aAAgBAQABBQLWzmFJkiz/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAXEAADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEBAAE/IXDCaRTMPUNkf//aAAwDAQACAAMAAAAQiA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAADAQADAQAAAAAAAAAAAAAAAREhMUFR0f/aAAgBAQABPxDJffBSZz3VpAs62wiVJuY/BhPp/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/4a1ffc4329529578a6b33a06a23dcc11/601b1/DSC1221.webp 500w,
+/static/4a1ffc4329529578a6b33a06a23dcc11/80c60/DSC1221.webp 1000w,
+/static/4a1ffc4329529578a6b33a06a23dcc11/fab06/DSC1221.webp 2000w,
+/static/4a1ffc4329529578a6b33a06a23dcc11/96d48/DSC1221.webp 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/4a1ffc4329529578a6b33a06a23dcc11/953fe/DSC1221.jpg 500w,
+/static/4a1ffc4329529578a6b33a06a23dcc11/0a251/DSC1221.jpg 1000w,
+/static/4a1ffc4329529578a6b33a06a23dcc11/451a4/DSC1221.jpg 2000w,
+/static/4a1ffc4329529578a6b33a06a23dcc11/09658/DSC1221.jpg 2048w&quot;
+          sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/4a1ffc4329529578a6b33a06a23dcc11/451a4/DSC1221.jpg&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
+          src=&quot;/static/4a1ffc4329529578a6b33a06a23dcc11/451a4/DSC1221.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -3766,7 +3927,115 @@
     
   &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Rødøyløva, Norway&lt;/figcaption&gt;
   &lt;/figure&gt;
-      &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Man made]]></title><link>https://ilenic.photos/man-made/</link><guid isPermaLink="false">https://ilenic.photos/man-made/</guid><pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+      &lt;/p&gt;
+&lt;div class=&quot;scale-3-row&quot;&gt;
+&lt;div class=&quot;scale-3-col-0&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7c56f9cd0d3882ef8c4c6a15f8ba7fae/49b32/DSC1063.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1535px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABual6RnRt0yLLRgT/xAAZEAACAwEAAAAAAAAAAAAAAAABEAACMTL/2gAIAQEAAQUClcVMVOUSV//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEABj8CT//EABsQAQACAgMAAAAAAAAAAAAAAAEAECExEaGx/9oACAEBAAE/IfakzN0u4pH2i5ojwLGf/9oADAMBAAIAAwAAABA7yjH/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBjP//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEBH/2gAIAQIBAT8QMC5f/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFRcZH/2gAIAQEAAT8QW2zA2MN49+TN9ii4n2Fc+zd7EbqEbbVTM9i5hgI4MTe5/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/7c56f9cd0d3882ef8c4c6a15f8ba7fae/601b1/DSC1063.webp 500w,
+/static/7c56f9cd0d3882ef8c4c6a15f8ba7fae/80c60/DSC1063.webp 1000w,
+/static/7c56f9cd0d3882ef8c4c6a15f8ba7fae/33007/DSC1063.webp 1535w&quot;
+          sizes=&quot;(max-width: 1535px) 100vw, 1535px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/7c56f9cd0d3882ef8c4c6a15f8ba7fae/953fe/DSC1063.jpg 500w,
+/static/7c56f9cd0d3882ef8c4c6a15f8ba7fae/0a251/DSC1063.jpg 1000w,
+/static/7c56f9cd0d3882ef8c4c6a15f8ba7fae/49b32/DSC1063.jpg 1535w&quot;
+          sizes=&quot;(max-width: 1535px) 100vw, 1535px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/7c56f9cd0d3882ef8c4c6a15f8ba7fae/49b32/DSC1063.jpg&quot;
+          alt=&quot;Oslo, Norway&quot;
+          title=&quot;Oslo, Norway&quot;
+          src=&quot;/static/7c56f9cd0d3882ef8c4c6a15f8ba7fae/49b32/DSC1063.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Oslo, Norway&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;scale-3-col-1&quot;&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e3b56ce36b5c8fef9f9e17c3c3d65c0f/beaaf/DSC0829.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1367px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 149.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHrNrczlwjBUVFbDIV//8QAGhAAAwADAQAAAAAAAAAAAAAAAAIRARASQf/aAAgBAQABBQL3K0m4VzDOVxmOjs//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAACAwEAAAAAAAAAAAAAAAAAIAESQiH/2gAIAQEABj8CbJ2smU//xAAeEAADAAIBBQAAAAAAAAAAAAAAAREhQRAxYXGRof/aAAgBAQABPyHKhiEx14NUyuEd/ZuPFTv+rIvAmVm3Sj//2gAMAwEAAgADAAAAEBsdcv/EABcRAQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QYmv/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QakY//8QAHxAAAgICAQUAAAAAAAAAAAAAAAERITFBcWGhsdHw/9oACAEBAAE/EFtQ9UXkO+Co7kSZKyN25Glu6r2GZpnDgkdxy1D8bGQSMyWNyc5//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/e3b56ce36b5c8fef9f9e17c3c3d65c0f/601b1/DSC0829.webp 500w,
+/static/e3b56ce36b5c8fef9f9e17c3c3d65c0f/80c60/DSC0829.webp 1000w,
+/static/e3b56ce36b5c8fef9f9e17c3c3d65c0f/883d7/DSC0829.webp 1367w&quot;
+          sizes=&quot;(max-width: 1367px) 100vw, 1367px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/e3b56ce36b5c8fef9f9e17c3c3d65c0f/953fe/DSC0829.jpg 500w,
+/static/e3b56ce36b5c8fef9f9e17c3c3d65c0f/0a251/DSC0829.jpg 1000w,
+/static/e3b56ce36b5c8fef9f9e17c3c3d65c0f/beaaf/DSC0829.jpg 1367w&quot;
+          sizes=&quot;(max-width: 1367px) 100vw, 1367px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/e3b56ce36b5c8fef9f9e17c3c3d65c0f/beaaf/DSC0829.jpg&quot;
+          alt=&quot;Cerkniško jezero, Slovenia&quot;
+          title=&quot;Cerkniško jezero, Slovenia&quot;
+          src=&quot;/static/e3b56ce36b5c8fef9f9e17c3c3d65c0f/beaaf/DSC0829.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Cerkniško jezero, Slovenia&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Man made]]></title><link>https://ilenic.photos/man-made/</link><guid isPermaLink="false">https://ilenic.photos/man-made/</guid><pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 0 0 6vw 0;&quot;&gt;
   
   &lt;a

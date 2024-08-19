@@ -56,3 +56,17 @@ description: ""
 ![Romsdalen, Norway](./DSF0185.jpg "Romsdalen, Norway")
 
 ![Rødøyløva, Norway](./DSF2935.jpg "Rødøyløva, Norway")
+
+<div class="scale-3-row">
+<div class="scale-3-col-0">
+
+![Oslo, Norway](./DSC1063.jpg "Oslo, Norway")
+
+</div>
+
+<div class="scale-3-col-1">
+
+![Cerkniško jezero, Slovenia](./DSC0829.jpg "Cerkniško jezero, Slovenia")
+
+</div>
+</div>

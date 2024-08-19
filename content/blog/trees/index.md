@@ -20,7 +20,7 @@ description: ""
 
 <div class="trees-1-col-1">
 
-![Ekeberg, Norway](./DSF8911.jpg "Ekeberg, Norway")
+![Oslo, Norway](./DSF8911.jpg "Oslo, Norway")
 
 </div>
 </div>

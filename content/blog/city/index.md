@@ -33,6 +33,8 @@ description: ""
 
 ![Oslo, Norway](./DSF7944.jpg "Oslo, Norway")
 
+![Oslo, Norway](./DSC1221.jpg "Oslo, Norway")
+
 ![Eger, Hungary](./DSF1946.jpg "Eger, Hungary")
 
 ![Bergen, Norway](./DSF2013.jpg "Bergen, Norway")
