@@ -64,3 +64,17 @@ description: ""
 </div>
 
 ![Fredrikstad, Norway](./DSF8405.jpg "Fredrikstad, Norway")
+
+<div class="street-3-row">
+<div class="street-3-col-0">
+
+![Oslo, Norway](./DSC1534.jpg "Oslo, Norway")
+
+</div>
+
+<div class="street-3-col-1">
+
+![Oslo, Norway](./DSC1481.jpg "Oslo, Norway")
+
+</div>
+</div>
